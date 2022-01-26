@@ -580,36 +580,7 @@
     <!-- Back To Top -->    
     <a href="#" class="back_top"> <i class="mdi mdi-chevron-up"> </i> </a>
 
-    <!-- START SWITCHER -->
-    <div id="color-switcher" style="left: 0px;">
-        <div>
-            <h3 class="fw-bold text-center">Select your color</h3>
-            <ul class="pattern">
-                <li>
-                    <a class="color1" href="#"></a>
-                </li>
-                <li>
-                    <a class="color2" href="#"></a>
-                </li>
-                <li>
-                    <a class="color3" href="#"></a>
-                </li>
-                <li>
-                    <a class="color4" href="#"></a>
-                </li>
-                <li>
-                    <a class="color5" href="#"></a>
-                </li>
-                <li>
-                    <a class="color6" href="#"></a>
-                </li>                   
-            </ul>
-        </div>
-        <div class="bottom">
-            <a href="#" class="settings rounded-right"><i class="mdi mdi-settings mdi-spin"></i></a>
-        </div>
-    </div>
-    <!-- END SWITCHER -->
+  
 
 
 	<!--All Javascript -->
@@ -620,9 +591,7 @@
     <script src="js/jquery.simple-text-rotator.js"></script>
 
 
-    <!-- Particles Js -->
-    <script src="js/particles.js"></script>  
-    <script src="js/particles.app.js"></script> 
+
     
     <!-- Owl Carousel -->
     <script src="js/owl.carousel.min.js"></script>
