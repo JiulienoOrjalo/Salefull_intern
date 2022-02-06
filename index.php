@@ -3,32 +3,20 @@
 <head>
 	<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Kerri | Responsive Bootstrap 5 Personal Template</title>
+    <title>Salefull Trading Inc.</title>
     <meta name="description" content="Premium Responsive Bootstrap 5 Personal Template" />
     <meta name="keywords" content="bootstrap 5, premium, cv, personal, Portfolio, multipurpose" />
     <meta name="author" content="SRBThemes" />
 
-    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="shortcut icon" href="images/salefull.png">
 
-    <!-- Bootstrap Css -->
+   
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-
-    <!-- Materialdesign icons Css -->
     <link rel="stylesheet" type="text/css" href="css/materialdesignicons.min.css">
-
-    <!-- Owl Carousel -->
     <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
-
-    <!-- Animate Css -->
     <link rel="stylesheet" type="text/css" href="css/animate.min.css">
-
-    <!-- Magnific-popup -->
     <link rel="stylesheet" type="text/css" href="css/magnific-popup.css">
-
-    <!-- Mobirise icons Css -->
     <link rel="stylesheet" type="text/css" href="css/mobiriseicons.css"> 
-
-    <!-- Custom Style -->
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/color/default.css" id="option-color">
 </head>
@@ -44,10 +32,10 @@
 	<!-- Start Navbar -->
 	<nav class="navbar navbar-expand-lg custom-nav navbar-light fixed-top sticky">
 	    <div class="container">
-	        <a class="navbar-brand pt-0 logo" href="#">
+	        <!-- <a class="navbar-brand pt-0 logo" href="#">
                 <img src="images/logo.png" alt="" class="img-fluid logo-light">
                 <img src="images/logo-dark.png" alt="" class="img-fluid logo-dark">
-            </a>
+            </a> -->
 	        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 	            <span class="mdi mdi-menu"></span>
 	        </button>
@@ -83,8 +71,10 @@
                 <div class="col-lg-12">
                     <div class="text-center header-content mx-auto">
                         <!-- <h4 class="text-white first-title mb-4">Welcome</h4> -->
-                        <h1 class="header-name text-white text-capitalize mb-0"><span class="simple-text-rotate fw-bold">Welcome To,Salefull Trading Incorporated,We bring good things to life</span></h1>
-                        <p class="text-white mx-auto header-desc mt-4">It is a long established fact that a reader will be of a page when established fact looking at its layout.</p>
+                        <h1 class="header-name text-white text-capitalize mb-0">
+                            <span class="simple-text-rotate fw-bold">Salefull Trading Incorporated</span>
+                        </h1>
+                  
                         
                     </div>
                 </div>
