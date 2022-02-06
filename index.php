@@ -33,7 +33,7 @@
 	<nav class="navbar navbar-expand-lg custom-nav navbar-light fixed-top sticky">
 	    <div class="container">
 	        <a class="navbar-brand pt-0 logo" href="#">
-                <img src="images/salefull.png" alt="" class="img-fluid logo-light" style="height: ">
+                <img src="images/salefull-logo.png" alt="" class="img-fluid logo-light">
                 <img src="images/logo-dark.png" alt="" class="img-fluid logo-dark">
             </a>
 	        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -205,7 +205,81 @@
     </section>
     <!-- END SERVICES -->
 
+    <!-- START CTA -->
+    <section class="section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="text-center">
+                        <h2 class="fw-bold">In SALEFULL, It's our top priority to match your needs.</h2>
+                        <br>
+                        Do you have any questions?
+                    </div>
+                    <div class="text-center mt-4">
+                        <a href="#" class="btn btn-custom">Contact Us</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- END CTA -->
 
+    <!-- START CLIENT -->
+    <section class="section bg-light" id="client">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-12">
+                    <div class="text-center">
+                        <h2>Our <span class="fw-bold">Team</span></h2>
+                        <p class="text-muted mx-auto section-subtitle mt-3">It is a long established fact that a reader will be of a page when established fact looking at its layout.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row mt-4 pt-4">
+                <div class="col-lg-12">
+                    <div id="owl-demo" class="owl-carousel">
+                        <div class="text-center testi_boxes mx-auto">
+                            <div class="tam_testi_icon text-custom">
+                                <i class="mbri-quote-left"></i>
+                            </div>
+                            <div class="mt-2">
+                                <div class="img_testi">
+                                    <img src="images/testi/testi-1.jpg" alt="" class="mx-auto img-thumbnail img-fluid rounded-circle">
+                                </div>
+                                <p class="client_review fst-italic mt-4 text-center text-muted">" The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here."</p>
+                                <p class="client_name text-center mb-0 mt-4">- Ebony verty, <span class="fw-bold">Envato</span></p>
+                            </div>
+                        </div>
+                        <div class="text-center testi_boxes mx-auto">
+                            <div class="tam_testi_icon text-custom">
+                                <i class="mbri-quote-left"></i>
+                            </div>
+                            <div class="mt-2">
+                                <div class="img_testi">
+                                    <img src="images/testi/testi-2.jpg" alt="" class="mx-auto img-thumbnail img-fluid d-block rounded-circle">
+                                </div>
+                                <p class="client_review fst-italic mt-4 text-center text-muted">" The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here."</p>
+                                <p class="client_name text-center mb-0 mt-4">- Ebony verty, <span class="fw-bold">Envato</span></p>
+                            </div>
+                        </div>
+                        <div class="text-center testi_boxes mx-auto">
+                            <div class="tam_testi_icon text-custom">
+                                <i class="mbri-quote-left"></i>
+                            </div>
+                            <div class="mt-2">
+                                <div class="img_testi">
+                                    <img src="images/testi/testi-3.jpg" alt="" class="mx-auto img-thumbnail img-fluid d-block rounded-circle">
+                                </div>
+                                <p class="client_review fst-italic mt-4 text-center text-muted">" The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here."</p>
+                                <p class="client_name text-center mb-0 mt-4">- Ebony verty, <span class="fw-bold">Envato</span></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- END CLIENT -->
 
     <!-- START WORK -->   
     <section class="section text-center" id="portfolio">
@@ -213,7 +287,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-12">
                     <div class="text-center">
-                        <h2> <span class="fw-bold">WHAT OUR VA'S OFFER</span></h2>
+                        <h2><span class="fw-bold">What our VA's Offer</span></h2>
                         <p class="text-muted mx-auto section-subtitle mt-3">It is a long established fact that a reader will be of a page when established fact looking at its layout.</p>
                     </div>
                 </div>
@@ -281,6 +355,7 @@
                         </div>
                     </a>
                 </div>
+
 
             </div>
         </div>
