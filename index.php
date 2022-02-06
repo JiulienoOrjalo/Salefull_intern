@@ -32,10 +32,10 @@
 	<!-- Start Navbar -->
 	<nav class="navbar navbar-expand-lg custom-nav navbar-light fixed-top sticky">
 	    <div class="container">
-	        <!-- <a class="navbar-brand pt-0 logo" href="#">
-                <img src="images/logo.png" alt="" class="img-fluid logo-light">
+	        <a class="navbar-brand pt-0 logo" href="#">
+                <img src="images/salefull.png" alt="" class="img-fluid logo-light" style="height: ">
                 <img src="images/logo-dark.png" alt="" class="img-fluid logo-dark">
-            </a> -->
+            </a>
 	        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 	            <span class="mdi mdi-menu"></span>
 	        </button>
@@ -72,10 +72,9 @@
                     <div class="text-center header-content mx-auto">
                         <!-- <h4 class="text-white first-title mb-4">Welcome</h4> -->
                         <h1 class="header-name text-white text-capitalize mb-0">
-                            <span class="simple-text-rotate fw-bold">Salefull Trading Incorporated</span>
+                            Salefull Trading <br>Incorporated
                         </h1>
                   
-                        
                     </div>
                 </div>
             </div>
@@ -206,79 +205,7 @@
     </section>
     <!-- END SERVICES -->
 
-    <!-- START CTA -->
-    <section class="section">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="text-center">
-                        <h2 class="fw-bold">I Am Available For Freelancer.</h2>
-                    </div>
-                    <div class="text-center mt-4">
-                        <a href="#" class="btn btn-custom">Hire Me!</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- END CTA -->
 
-    <!-- START CLIENT -->
-    <section class="section bg-light" id="client">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-12">
-                    <div class="text-center">
-                        <h2>Our <span class="fw-bold">Client</span></h2>
-                        <p class="text-muted mx-auto section-subtitle mt-3">It is a long established fact that a reader will be of a page when established fact looking at its layout.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-4 pt-4">
-                <div class="col-lg-12">
-                    <div id="owl-demo" class="owl-carousel">
-                        <div class="text-center testi_boxes mx-auto">
-                            <div class="tam_testi_icon text-custom">
-                                <i class="mbri-quote-left"></i>
-                            </div>
-                            <div class="mt-2">
-                                <div class="img_testi">
-                                    <img src="images/testi/testi-1.jpg" alt="" class="mx-auto img-thumbnail img-fluid rounded-circle">
-                                </div>
-                                <p class="client_review fst-italic mt-4 text-center text-muted">" The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here."</p>
-                                <p class="client_name text-center mb-0 mt-4">- Ebony verty, <span class="fw-bold">Envato</span></p>
-                            </div>
-                        </div>
-                        <div class="text-center testi_boxes mx-auto">
-                            <div class="tam_testi_icon text-custom">
-                                <i class="mbri-quote-left"></i>
-                            </div>
-                            <div class="mt-2">
-                                <div class="img_testi">
-                                    <img src="images/testi/testi-2.jpg" alt="" class="mx-auto img-thumbnail img-fluid d-block rounded-circle">
-                                </div>
-                                <p class="client_review fst-italic mt-4 text-center text-muted">" The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here."</p>
-                                <p class="client_name text-center mb-0 mt-4">- Ebony verty, <span class="fw-bold">Envato</span></p>
-                            </div>
-                        </div>
-                        <div class="text-center testi_boxes mx-auto">
-                            <div class="tam_testi_icon text-custom">
-                                <i class="mbri-quote-left"></i>
-                            </div>
-                            <div class="mt-2">
-                                <div class="img_testi">
-                                    <img src="images/testi/testi-3.jpg" alt="" class="mx-auto img-thumbnail img-fluid d-block rounded-circle">
-                                </div>
-                                <p class="client_review fst-italic mt-4 text-center text-muted">" The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here."</p>
-                                <p class="client_name text-center mb-0 mt-4">- Ebony verty, <span class="fw-bold">Envato</span></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- END CLIENT -->
 
     <!-- START WORK -->   
     <section class="section text-center" id="portfolio">
@@ -286,12 +213,12 @@
             <div class="row justify-content-center">
                 <div class="col-lg-12">
                     <div class="text-center">
-                        <h2>Our <span class="fw-bold">Works</span></h2>
+                        <h2> <span class="fw-bold">WHAT OUR VA'S OFFER</span></h2>
                         <p class="text-muted mx-auto section-subtitle mt-3">It is a long established fact that a reader will be of a page when established fact looking at its layout.</p>
                     </div>
                 </div>
             </div>
-            <div class="row mt-5 ">
+            <!-- <div class="row mt-5 ">
                 <ul class="col list-unstyled list-inline mb-0 text-uppercase work_menu" id="menu-filter">
                     <li class="list-inline-item"><a class="active" data-filter="*">All</a></li>
                     <li class="list-inline-item"><a class="" data-filter=".seo">Seo</a></li>
@@ -299,93 +226,62 @@
                     <li class="list-inline-item"><a class="" data-filter=".WORK">WORK</a></li>
                     <li class="list-inline-item"><a class="" data-filter=".wordpress">Wordpress</a></li>
                 </ul>
-            </div>
+            </div> -->
         </div>
         <div class="container">
             <div class="row mt-4 work-filter">
-                <div class="col-lg-4 work_item webdesign wordpress">
+                <div class="col-lg-3 work_item webdesign wordpress">
                     <a href="images/works/1.jpg" class="img-zoom">
                         <div class="work_box">
                             <div class="work_img">
                                 <img src="images/works/1.jpg" class="img-fluid mx-auto d-block rounded" alt="work-img">
                             </div>
                             <div class="work_detail">
-                                <p class="mb-2">Category</p>
-                                <h4 class="mb-0">Project Title</h4>
+                                <h4 class="mb-0">Internet Research</h4>
                             </div>
                         </div>
                     </a>
                 </div>
 
-                <div class="col-lg-4 work_item WORK webdesign seo">
+                <div class="col-lg-3 work_item WORK webdesign seo">
                     <a href="images/works/2.jpg" class="img-zoom">
                         <div class="work_box">
                             <div class="work_img">
                                 <img src="images/works/2.jpg" class="img-fluid mx-auto d-block rounded" alt="work-img">
                             </div>
                             <div class="work_detail">
-                                <p class="mb-2">Category</p>
-                                <h4 class="mb-0">Project Title</h4>
+                                <h4 class="mb-0">Virtual Internship</h4>
                             </div>
                         </div>
                     </a>
                 </div>
 
-                <div class="col-lg-4 work_item seo wordpress">
+                <div class="col-lg-3 work_item seo wordpress">
                     <a href="images/works/3.jpg" class="img-zoom">
                         <div class="work_box">
                             <div class="work_img">
                                 <img src="images/works/3.jpg" class="img-fluid mx-auto d-block rounded" alt="work-img">
                             </div>
                             <div class="work_detail">
-                                <p class="mb-2">Category</p>
-                                <h4 class="mb-0">Project Title</h4>
+                                <h4 class="mb-0">Social Media Management</h4>
                             </div>
                         </div>
                     </a>
                 </div>
 
-                <div class="col-lg-4 work_item wordpress WORK webdesign">
+                <div class="col-lg-3 work_item wordpress WORK webdesign">
                     <a href="images/works/4.jpg" class="img-zoom">
                         <div class="work_box">
                             <div class="work_img">
                                 <img src="images/works/4.jpg" class="img-fluid mx-auto d-block rounded" alt="work-img">
                             </div>
                             <div class="work_detail">
-                                <p class="mb-2">Category</p>
-                                <h4 class="mb-0">Project Title</h4>
+                                <h4 class="mb-0">Web Development</h4>
                             </div>
                         </div>
                     </a>
                 </div>
 
-                <div class="col-lg-4 work_item seo webdesign">
-                    <a href="images/works/5.jpg" class="img-zoom">
-                        <div class="work_box">
-                            <div class="work_img">
-                                <img src="images/works/5.jpg" class="img-fluid mx-auto d-block rounded" alt="work-img">
-                            </div>
-                            <div class="work_detail">
-                                <p class="mb-2">Category</p>
-                                <h4 class="mb-0">Project Title</h4>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <div class="col-lg-4 work_item devlopment webdesign">
-                    <a href="images/works/6.jpg" class="img-zoom">
-                        <div class="work_box">
-                            <div class="work_img">
-                                <img src="images/works/6.jpg" class="img-fluid mx-auto d-block rounded" alt="work-img">
-                            </div>
-                            <div class="work_detail">
-                                <p class="mb-2">Category</p>
-                                <h4 class="mb-0">Project Title</h4>
-                            </div>
-                        </div>
-                    </a>
-                </div>
             </div>
         </div>
     </section>
