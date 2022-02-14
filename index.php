@@ -45,7 +45,7 @@
 	                    <a class="nav-link" href="#home">HOME</a>
 	                </li>
 	                <li class="nav-item">
-	                    <a class="nav-link" href="#about">ABOUT US</a>
+                    <a class="nav-link" href="About us.php">ABOUT US</a>
 	                </li>
 	                <li class="nav-item">
 	                    <a class="nav-link" href="#services">SERVICES</a>
