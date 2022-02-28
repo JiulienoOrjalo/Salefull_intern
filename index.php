@@ -407,7 +407,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-12">
                     <div class="text-center">
-                        <h2>Our <span class="fw-bold">Blog</span></h2>
+                        <h2><span class="fw-bold">Updates</span></h2>
                         <p class="text-muted mx-auto section-subtitle mt-3">It is a long established fact that a reader will be of a page when established fact looking at its layout.</p>
                     </div>
                 </div>
@@ -480,6 +480,9 @@
                     <div class="col-lg-6">
                         <div class="text-center">
                             <h2><span class="fw-bold">Our Partners</span></h2>
+                            <p>We build partnerships with service providers and
+                            agencies to help build top notch solutions.
+                            </p>
                         </div>
                     </div>
                 </div> 
@@ -565,7 +568,7 @@
                     <div class="col-lg-6">
                         <div class="text-center">
                             <h2><span class="fw-bold">Contact</span> Us</h2>
-                            <p class="text-muted mx-auto section-subtitle mt-3">It is a long established fact that a reader will be of a page when established fact looking at its layout.</p>
+                            <p class="text-muted mx-auto section-subtitle mt-3">We're here to help and answer any questions you might have. We look forward to hearing from you.</p>
                         </div>
                     </div>
                 </div> 
