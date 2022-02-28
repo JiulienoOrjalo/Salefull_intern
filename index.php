@@ -330,7 +330,7 @@
     <section class="section">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-lg-12" data-aos="fade-up">
                     <div class="text-center">
                         <h2 class="fw-bold">In SALEFULL, It's our top priority to match your needs.</h2>
                         <br>
@@ -352,7 +352,6 @@
                 <div class="col-lg-12">
                     <div class="text-center">
                         <h2>Our <span class="fw-bold">Team</span></h2>
-                        <p class="text-muted mx-auto section-subtitle mt-3">It is a long established fact that a reader will be of a page when established fact looking at its layout.</p>
                     </div>
                 </div>
             </div>
@@ -360,12 +359,10 @@
                 <div class="col-lg-12">
                     <div id="owl-demo" class="owl-carousel">
                         <div class="text-center testi_boxes mx-auto">
-                            <div class="tam_testi_icon text-custom">
-                                <i class="mbri-quote-left"></i>
-                            </div>
                             <div class="mt-2">
                                 <div class="img_testi">
                                     <img src="images/testi/testi-1.jpg" alt="" class="mx-auto img-thumbnail img-fluid rounded-circle">
+                                    
                                 </div>
                                 <p class="client_review fst-italic mt-4 text-center text-muted">" The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here."</p>
                                 <p class="client_name text-center mb-0 mt-4">- Ebony verty, <span class="fw-bold">Envato</span></p>
@@ -472,92 +469,194 @@
     </section>
     <!-- END BLOG -->
 
-    <!-- START CONTACT -->
-    <section class="section" id="contact">
+
+
+   <!-- START CONTACT -->
+   <section class="section m-10" id="contact" >
         <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-12">
-                    <div class="text-center">
-                        <h2><span class="fw-bold">Contact</span> Us</h2>
-                        <p class="text-muted mx-auto section-subtitle mt-3">It is a long established fact that a reader will be of a page when established fact looking at its layout.</p>
-                    </div>
-                </div>
-            </div> 
-            <div class="row mt-5">
-                <div class="col-lg-4">
-                    <div class="text-center">
-                        <div>
-                            <i class="mbri-mobile2 text-custom h1"></i>
-                        </div>
-                        <div class="mt-3">
-                            <h5 class="mb-0 contact_detail-title fw-bold">Call Us On</h5>
-                            <p class="text-muted">+985 123 7856</p>
+            <div class="col-lg-12">
+
+                <div class="row justify-content-center">
+                    <div class="col-lg-6">
+                        <div class="text-center">
+                            <h2><span class="fw-bold">Our Partners</span></h2>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="text-center">
-                        <div>
-                            <i class="mbri-letter text-custom h1"></i>
-                        </div>
-                        <div class="mt-3">
-                            <h5 class="mb-0 contact_detail-title fw-bold">Email Us At</h5>
-                            <p class="text-muted">Website.Kerri@gmail.com</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="text-center">
-                        <div>
-                            <i class="mbri-pin text-custom h1"></i>
-                        </div>
-                        <div class="mt-3">
-                            <h5 class="mb-0 contact_detail-title fw-bold">Visit Office</h5>
-                            <p class="text-muted">202, Grasselli Street , Conway.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-5">
-                <div class="col-lg-12">
-                    <div class="form-kerri contact_form">
-                        <form>
-                            <div class="row">
-                                <div class="col-lg-6">
-                                    <div class="form-group mt-2">
-                                        <input type="text" class="form-control" placeholder="Your name..." aria-label="First name">
+                </div> 
+                            <center>
+                            <div class="container mt-3">
+                                <div class="row align-items-center">
+
+                                    <div class="col-lg-12">
+                                            <div class="form-kerri contact_form">
+                                                    <div class="row">
+                                                        <div class="col-lg-4">
+                                                            <div class="form-group mt-2">
+                                                                <img src="images/school1.jpg">
+                                                            </div>
+                                                        </div>
+                                                        
+                                                        <div class="col-lg-4">
+                                                        <div class="form-group mt-2">
+                                                                <img src="images/school2.jpg"> 
+                                                            </div>
+                                                        </div> 
+                                                        <div class="col-lg-4">
+                                                        <div class="form-group mt-2">
+                                                                <img src="images/school3.jpg">
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="col-lg-4">
+                                                            <div class="form-group mt-">
+                                                                <img src="images/school4.jpg">
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="col-lg-4">
+                                                            <div class="form-group mt-">
+                                                                <img src="images/school5.jpg">
+                                                            </div>
+                                                        </div>
+
+
+                                                        <div class="col-lg-4">
+                                                            <div class="form-group mt-">
+                                                                <img src="images/school7.jpg">
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="col-lg-4">
+                                                            <div class="form-group mt-">
+                                                                <img src="images/school8.jpg">
+                                                            </div>
+                                                        </div>
+                  
+
+                                                    </div>
+                                            </div>
                                     </div>
-                                </div>
-                                <div class="col-lg-6">
-                                    <div class="form-group mt-2">
-                                        <input type="email" class="form-control" id="inputEmail4" placeholder="Your email...">
-                                    </div>
-                                </div>                                
-                            </div>
-                            <div class="row">
-                                <div class="form-group mt-2">
-                                    <input type="text" class="form-control" placeholder="Your Subject.." aria-label="Subject">
+                                    
                                 </div>
                             </div>
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="form-group mt-2">
-                                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="4" placeholder="Your Massage..."></textarea>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-12 text-end mt-2">
-                                    <input type="submit" id="submit" name="send" class="btn btn-custom text-uppercase" value="Send Massage">
-                                </div>
-                            </div>
-                        </form>
-                    </div>  
-                </div>
+                        </center>
+
+
             </div>
         </div>
     </section>
     <!-- END CONTACT -->
+
+
+
+
+
+
+
+
+
+
+    <!-- START CONTACT -->
+    <section class="section" id="contact">
+        <div class="container">
+            <div class="col-lg-12">
+
+                <div class="row justify-content-center">
+                    <div class="col-lg-6">
+                        <div class="text-center">
+                            <h2><span class="fw-bold">Contact</span> Us</h2>
+                            <p class="text-muted mx-auto section-subtitle mt-3">It is a long established fact that a reader will be of a page when established fact looking at its layout.</p>
+                        </div>
+                    </div>
+                </div> 
+
+                            <div class="container mt-3">
+                                <div class="row align-items-center">
+                                    <div class="col-lg-6">
+                                        <div class="form-kerri contact_form">
+                                                <form>
+
+                                                    <div class="row">
+                                                        <div class="col-lg-6">
+                                                            <div class="mt-3">
+                                                                <h5 class="mb-0 contact_detail-title fw-bold">Call Us On</h5>
+                                                                <p class="text-muted">(047) 250 3591</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+
+
+                                                    <div class="row">
+
+                                                        <div class="mt-3">
+                                                            <h5 class="mb-0 contact_detail-title fw-bold">Visit Office</h5>
+                                                            <p class="text-muted">2F Subic Creative Center Bldg., Lot C 5-A Blk. C Subic Commercial Light and Industrial Park cor. Manila and Dewey Ave. Central Business District Area
+                                                            Subic Bay Freeport Zone 2222 Zambales</p>
+                                                        </div>
+                                                    </div>
+
+
+
+                                                    <div class="row">
+                                                        <div class="mt-3">
+                                                            <h5 class="mb-0 contact_detail-title fw-bold">Open</h5>
+                                                            <p class="text-muted">Open: Mon – Fri: 8AM – 5PM, Sat: 9AM – 5PM
+                                                            Closed: Sunday</p>
+                                                        </div>
+                                                    </div>
+
+             
+                                                </form>
+                                            </div>
+                                    </div>
+
+                                    <div class="col-lg-6">
+                                            <div class="form-kerri contact_form">
+                                                <form>
+                                                    <div class="row">
+                                                        <div class="col-lg-6">
+                                                            <div class="form-group mt-2">
+                                                                <input type="text" class="form-control" placeholder="Your name..." aria-label="First name">
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-6">
+                                                            <div class="form-group mt-2">
+                                                                <input type="email" class="form-control" id="inputEmail4" placeholder="Your email...">
+                                                            </div>
+                                                        </div>                                
+                                                    </div>
+                                                    <div class="row">
+                                                        <div class="form-group mt-2">
+                                                            <input type="text" class="form-control" placeholder="Your Subject.." aria-label="Subject">
+                                                        </div>
+                                                    </div>
+                                                    <div class="row">
+                                                        <div class="col-lg-12">
+                                                            <div class="form-group mt-2">
+                                                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="4" placeholder="Your Massage..."></textarea>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="row">
+                                                        <div class="col-lg-12 text-end mt-2">
+                                                            <input type="submit" id="submit" name="send" class="btn btn-custom text-uppercase" value="Send Massage">
+                                                        </div>
+                                                    </div>
+                                                </form>
+                                            </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+
+
+
+            </div>
+        </div>
+    </section>
+    <!-- END CONTACT -->
+
 
     <!--START FOOTER-->
     <footer class="footer bg-light">
