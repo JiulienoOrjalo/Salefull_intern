@@ -19,6 +19,9 @@
     <link rel="stylesheet" type="text/css" href="css/mobiriseicons.css"> 
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/color/default.css" id="option-color">
+    <link rel="stylesheet" type="text/css" href="css/style2.css">
+
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
 <body>
 
@@ -42,19 +45,19 @@
 	        <div class="collapse navbar-collapse" id="navbarNav">
 	            <ul class="navbar-nav ms-auto" id="main_nav">
 	                <li class="nav-item">
-	                    <a class="nav-link" href="#home">HOME</a>
+	                    <a class="nav-link" href="#">HOME</a>
 	                </li>
 	                <li class="nav-item">
                     <a class="nav-link" href="About us.php">ABOUT US</a>
 	                </li>
 	                <li class="nav-item">
-	                    <a class="nav-link" href="#services">SERVICES</a>
+	                    <a class="nav-link" href="#">SERVICES</a>
 	                </li>
 	                <li class="nav-item">
-	                    <a class="nav-link" href="#client">UPDATES</a>
+	                    <a class="nav-link" href="#">UPDATES</a>
 	                </li>
 	                <li class="nav-item">
-	                    <a class="nav-link" href="#contact">CONTACT US</a>
+	                    <a class="nav-link" href="#">CONTACT US</a>
 	                </li>
 	            </ul>
 	        </div>
@@ -83,38 +86,156 @@
     </section>
     <!-- END HOME -->
 
-    <!-- START ABOUT -->
+    <!-- START ABOUT SALEFULL -->
     <section class="section" id="about">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <div class="mt-3">
-                        <img src="images/about.jpg" alt="" class="img-fluid mx-auto d-block img-thumbnail">
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="mt-3">
-                        <h2><span class="fw-bold">About</span> Me</h2>
-                        <h4 class="mt-4">Hello! <span class="text-custom fw-bold">I'M Kerri Deo.</span></h4>
-                        <p class="text-muted mt-4">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </p>
-                        <p class="text-muted mt-2">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
-                        <p class="text-muted mt-2">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-                        <div>
-                            <ul class="mb-0 about-social list-inline mt-4">
-                                <li class="list-inline-item"><a href="#"><i class="mdi mdi-dribbble"></i></a></li>
-                                <li class="list-inline-item"><a href="#"><i class="mdi mdi-facebook"></i></a></li>
-                                <li class="list-inline-item"><a href="#"><i class="mdi mdi-linkedin"></i></a></li>
-                                <li class="list-inline-item"><a href="#"><i class="mdi mdi-twitter"></i></a></li>
-                            </ul> 
+                <div class="col-lg-12">
+                    <div class="text-center" data-aos="fade-up">
+                        <h2><span class="fw-bold">About SALEFULL</span> </h2>
+                        <p class="text-muted mt-3">Since 2015, SALEFULL TRADING INCORPORATED, a Japanese owned private subsidiary corporation whose primary business services is giving assistance and support to its allied SME’s Japanese companies based in Japan. Who would like to make a global business, providing business and promotions opportunities, market research, and identifying related customers that match their business products and services and facilitates business contacts. </p>
+
+                        <div class="mt-5">
+                        <iframe width="648" height="366" src="https://www.youtube.com/embed/hpaNIK7u5jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                     </div>
+
+
                 </div>
             </div>
         </div>
     </section>
     <!-- END ABOUT -->
 
-    <!-- START SERVICES -->
+  <!-- START ABOUT -->
+    <section class="section bg-light" id="about">
+        <div class="container" >
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div data-aos="fade-right">
+                        <h2><span class="fw-bold">VIRTUAL SUPPORT AND ASSISTANT SERVICES</span></h2>
+                        <p class="text-muted mt-4">Our virtual staff offers help in setting up meetings and company visits that will help in introducing one’s company.<br><br>We offer internet research, international virtual internship, Social media management, Web design and Development.</p>
+                        <br>
+                        <button type="button" class="btn btn-danger btn-sm" id="btnhome">Learn more</button>
+                    </div>
+                </div>
+
+                <div class="col-lg-6">
+                    <div class="mt-3" data-aos="fade-left">
+                        <img src="images/goal.png" alt="" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container mt-5" >
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="mt-3" data-aos="fade-right">
+                        <img src="images/goal.png" alt="" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="mt-3" data-aos="fade-left">
+                        <h2><span class="fw-bold ">BUSINESS FORMATION</span></h2>
+                        <p class="text-muted mt-4">Our virtual staff offers help in setting up meetings and company visits that will help in introducing one’s company.<br><br>We offer internet research, international virtual internship, Social media management, Web design and Development.</p>
+                        
+                        <br>
+                        <button type="button" class="btn btn-danger btn-sm" id="btnhome">Learn more</button>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </section>
+    <!-- END ABOUT -->
+
+         <!-- START WORK -->   
+    <section class="section text-center" id="portfolio">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-12">
+                    <div class="text-center">
+                        <h2><span class="fw-bold">What our VA's Offer</span></h2>
+                        <!-- <p class="text-muted mx-auto section-subtitle mt-3">It is a long established fact that a reader will be of a page when established fact looking at its layout.</p> -->
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="row mt-5 ">
+                <ul class="col list-unstyled list-inline mb-0 text-uppercase work_menu" id="menu-filter">
+                    <li class="list-inline-item"><a class="active" data-filter="*">All</a></li>
+                    <li class="list-inline-item"><a class="" data-filter=".seo">Seo</a></li>
+                    <li class="list-inline-item"><a class="" data-filter=".webdesign">Webdesign</a></li>
+                    <li class="list-inline-item"><a class="" data-filter=".WORK">WORK</a></li>
+                    <li class="list-inline-item"><a class="" data-filter=".wordpress">Wordpress</a></li>
+                </ul>
+            </div> -->
+        </div>
+        <div class="container">
+            <div class="row mt-4 work-filter">
+                <div class="col-lg-3 work_item webdesign wordpress">
+                    <a href="images/works/1.jpg" class="img-zoom">
+                        <div class="work_box" data-aos="flip-up">
+                            <div class="work_img">
+                                <img src="images/works/intern.jpg" class="img-fluid mx-auto d-block rounded" alt="work-img">
+                            </div>
+                            <div class="work_detail">
+                                <h4 class="mb-0">Internet Research</h4>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-lg-3 work_item WORK webdesign seo">
+                    <a href="images/works/2.jpg" class="img-zoom">
+                        <div class="work_box" data-aos="flip-up">
+                            <div class="work_img">
+                                <img src="images/works/virtual.jpg" class="img-fluid mx-auto d-block rounded" alt="work-img">
+                            </div>
+                            <div class="work_detail">
+                                <h4 class="mb-0">Virtual Internship</h4>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-lg-3 work_item seo wordpress">
+                    <a href="images/works/3.jpg" class="img-zoom">
+                        <div class="work_box" data-aos="flip-up">
+                            <div class="work_img">
+                                <img src="images/works/social.jpg" class="img-fluid mx-auto d-block rounded" alt="work-img">
+                            </div>
+                            <div class="work_detail">
+                                <h4 class="mb-0">Social Media Management</h4>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-lg-3 work_item wordpress WORK webdesign">
+                    <a href="images/works/4.jpg" class="img-zoom">
+                        <div class="work_box" data-aos="flip-up">
+                            <div class="work_img">
+                                <img src="images/works/web.jpg" class="img-fluid mx-auto d-block rounded" alt="work-img">
+                            </div>
+                            <div class="work_detail">
+                                <h4 class="mb-0">Web Development</h4>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+    <!-- END WORK -->                       
+
+
+
+    <!-- START SERVICES 
     <section class="section bg-light" id="services">
         <div class="container">
             <div class="row justify-content-center">
@@ -213,10 +334,10 @@
                     <div class="text-center">
                         <h2 class="fw-bold">In SALEFULL, It's our top priority to match your needs.</h2>
                         <br>
-                        Do you have any questions?
+                        <p class=""> Do you have any questions? </p>
                     </div>
                     <div class="text-center mt-4">
-                        <a href="#" class="btn btn-custom">Contact Us</a>
+                        <a href="#" class="btn btn-danger">Contact Us</a>
                     </div>
                 </div>
             </div>
@@ -281,86 +402,7 @@
     </section>
     <!-- END CLIENT -->
 
-    <!-- START WORK -->   
-    <section class="section text-center" id="portfolio">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-12">
-                    <div class="text-center">
-                        <h2><span class="fw-bold">What our VA's Offer</span></h2>
-                        <p class="text-muted mx-auto section-subtitle mt-3">It is a long established fact that a reader will be of a page when established fact looking at its layout.</p>
-                    </div>
-                </div>
-            </div>
-            <!-- <div class="row mt-5 ">
-                <ul class="col list-unstyled list-inline mb-0 text-uppercase work_menu" id="menu-filter">
-                    <li class="list-inline-item"><a class="active" data-filter="*">All</a></li>
-                    <li class="list-inline-item"><a class="" data-filter=".seo">Seo</a></li>
-                    <li class="list-inline-item"><a class="" data-filter=".webdesign">Webdesign</a></li>
-                    <li class="list-inline-item"><a class="" data-filter=".WORK">WORK</a></li>
-                    <li class="list-inline-item"><a class="" data-filter=".wordpress">Wordpress</a></li>
-                </ul>
-            </div> -->
-        </div>
-        <div class="container">
-            <div class="row mt-4 work-filter">
-                <div class="col-lg-3 work_item webdesign wordpress">
-                    <a href="images/works/1.jpg" class="img-zoom">
-                        <div class="work_box">
-                            <div class="work_img">
-                                <img src="images/works/1.jpg" class="img-fluid mx-auto d-block rounded" alt="work-img">
-                            </div>
-                            <div class="work_detail">
-                                <h4 class="mb-0">Internet Research</h4>
-                            </div>
-                        </div>
-                    </a>
-                </div>
 
-                <div class="col-lg-3 work_item WORK webdesign seo">
-                    <a href="images/works/2.jpg" class="img-zoom">
-                        <div class="work_box">
-                            <div class="work_img">
-                                <img src="images/works/2.jpg" class="img-fluid mx-auto d-block rounded" alt="work-img">
-                            </div>
-                            <div class="work_detail">
-                                <h4 class="mb-0">Virtual Internship</h4>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <div class="col-lg-3 work_item seo wordpress">
-                    <a href="images/works/3.jpg" class="img-zoom">
-                        <div class="work_box">
-                            <div class="work_img">
-                                <img src="images/works/3.jpg" class="img-fluid mx-auto d-block rounded" alt="work-img">
-                            </div>
-                            <div class="work_detail">
-                                <h4 class="mb-0">Social Media Management</h4>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <div class="col-lg-3 work_item wordpress WORK webdesign">
-                    <a href="images/works/4.jpg" class="img-zoom">
-                        <div class="work_box">
-                            <div class="work_img">
-                                <img src="images/works/4.jpg" class="img-fluid mx-auto d-block rounded" alt="work-img">
-                            </div>
-                            <div class="work_detail">
-                                <h4 class="mb-0">Web Development</h4>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-
-            </div>
-        </div>
-    </section>
-    <!-- END WORK -->
 
     <!-- START BLOG -->
     <section class="section bg-light" id="blog">
@@ -574,5 +616,10 @@
             speed: 3500
         });
     </script>
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
 </body>
 </html>

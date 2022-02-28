@@ -42,21 +42,21 @@
 	        <div class="collapse navbar-collapse" id="navbarNav">
 	            <ul class="navbar-nav ms-auto" id="main_nav">
 	                <li class="nav-item">
-	                    <a class="nav-link" href="#home">HOME</a>
+	                    <a class="nav-link" href="index.php">HOME</a>
 	                </li>
 	                <li class="nav-item">
 	                    <a class="nav-link" href="About us.php">ABOUT US</a>
 	                </li>
 
 	                <li class="nav-item">
-	                    <a class="nav-link" href="#services">SERVICES</a>
+	                    <a class="nav-link" href="#">SERVICES</a>
 	                </li>
                     
 	                <li class="nav-item">
-	                    <a class="nav-link" href="#client">UPDATES</a>
+	                    <a class="nav-link" href="#">UPDATES</a>
 	                </li>
 	                <li class="nav-item">
-	                    <a class="nav-link" href="#contact">CONTACT US</a>
+	                    <a class="nav-link" href="#">CONTACT US</a>
 	                </li>
 	            </ul>
 	        </div>
