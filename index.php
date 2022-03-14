@@ -20,6 +20,7 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/color/default.css" id="option-color">
     <link rel="stylesheet" type="text/css" href="css/style2.css">
+    <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
 
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
@@ -37,7 +38,7 @@
 	    <div class="container">
 	        <a class="navbar-brand pt-0 logo" href="#">
                 <img src="images/salefull-logo.png" alt="" class="img-fluid logo-light">
-                <img src="images/logo-dark.png" alt="" class="img-fluid logo-dark">
+                <!-- <img src="images/logo-dark.png" alt="" class="img-fluid logo-dark"> -->
             </a>
 	        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 	            <span class="mdi mdi-menu"></span>
@@ -47,9 +48,11 @@
 	                <li class="nav-item">
 	                    <a class="nav-link" href="#">HOME</a>
 	                </li>
+
 	                <li class="nav-item">
                     <a class="nav-link" href="About us.php">ABOUT US</a>
 	                </li>
+                    
 	                <li class="nav-item">
 	                    <a class="nav-link" href="#">SERVICES</a>
 	                </li>
@@ -408,7 +411,6 @@
                 <div class="col-lg-12">
                     <div class="text-center">
                         <h2><span class="fw-bold">Updates</span></h2>
-                        <p class="text-muted mx-auto section-subtitle mt-3">It is a long established fact that a reader will be of a page when established fact looking at its layout.</p>
                     </div>
                 </div>
             </div>                 
@@ -668,12 +670,11 @@
                 <div class="col-md-12">
                     <div class="text-center text-white footer-alt">
                         <ul class="list-unstyled list-inline mb-0">
-                            <li class="list-inline-item"><a href="#"><i class="mdi mdi-facebook"></i></a></li>
-                            <li class="list-inline-item"><a href="#"><i class="mdi mdi-linkedin"></i></a></li>
-                            <li class="list-inline-item"><a href="#"><i class="mdi mdi-pinterest"></i></a></li>
-                            <li class="list-inline-item"><a href="#"><i class="mdi mdi-twitter"></i></a></li>
+                            <li class="list-inline-item"><a href="#"><i class="bx bxl-facebook"></i></a></li>
+                            <li class="list-inline-item"><a href="#"><i class="bx bxl-linkedin"></i></a></li>
+                            
                         </ul>
-                        <p class="copyright_content mb-0 mt-3"> 2018 - 2021 &copy; Kerri. Design by SRBThemes.</p>
+                        <p class="copyright_content mb-0 mt-3"> © 2022 SALEFULL TRADING INC. All Rights Reserved</p>
                     </div>
                 </div>
             </div>
@@ -682,8 +683,7 @@
     <!--END FOOTER-->
     
 
-    <!-- Back To Top -->    
-    <a href="#" class="back_top"> <i class="mdi mdi-chevron-up"> </i> </a>
+    
 
   
 

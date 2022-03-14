@@ -33,8 +33,8 @@
 	<nav class="navbar navbar-expand-lg custom-nav navbar-light fixed-top sticky">
 	    <div class="container">
 	        <a class="navbar-brand pt-0 logo" href="#">
-                <img src="images/logo3-light.png" alt="" class="img-fluid logo-light">
-                <img src="images/logo3-dark.png" alt="" class="img-fluid logo-dark">
+                <!-- <img src="images/logo3-light.png" alt="" class="img-fluid logo-light">
+                <img src="images/logo3-dark.png" alt="" class="img-fluid logo-dark"> -->
             </a>
 	        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 	            <span class="mdi mdi-menu"></span>
@@ -341,7 +341,7 @@
                             <li class="list-inline-item"><a href="#"><i class="bx bxl-linkedin"></i></a></li>
                             
                         </ul>
-                        <p class="copyright_content mb-0 mt-3"> 2021 - 2022 &copy; SALEFULL Intern</p>
+                        <p class="copyright_content mb-0 mt-3"> © 2022 SALEFULL TRADING INC. All Rights Reserved</p>
                     </div>
                 </div>
             </div>
