@@ -18,6 +18,7 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/color/default.css" id="option-color">
     <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
    
 </head>
 <body>
@@ -45,18 +46,18 @@
 	                    <a class="nav-link" href="index.php">HOME</a>
 	                </li>
 	                <li class="nav-item">
-	                    <a class="nav-link" href="About us.php">ABOUT US</a>
+	                    <a class="nav-link" href="About us.php"><b>ABOUT US</b></a>
 	                </li>
 
 	                <li class="nav-item">
-	                    <a class="nav-link" href="#">SERVICES</a>
+	                    <a class="nav-link" href="services.php">SERVICES</a>
 	                </li>
                     
 	                <li class="nav-item">
-	                    <a class="nav-link" href="#">UPDATES</a>
+	                    <a class="nav-link" href="update.php">UPDATES</a>
 	                </li>
 	                <li class="nav-item">
-	                    <a class="nav-link" href="#">CONTACT US</a>
+	                    <a class="nav-link" href="contact.php">CONTACT US</a>
 	                </li>
 	            </ul>
 	        </div>
@@ -66,7 +67,7 @@
 
 
     <!-- START HOME -->
-    <section class="section header-bg-img h-100vh align-items-center d-flex" id="home">
+    <section class="section header-bg-img h-25vh align-items-center d-flex" id="home">
         <div class="bg-overlay"></div>
         <div class="container z-index">
             <div class="row justify-content-center">
@@ -90,7 +91,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-12">
-                    <div class="text-center">
+                    <div class="text-center" data-aos="fade-up">
                         <h2><span class="fw-bold">WHO WE ARE</span></h2>
                         <p class="mt-5">SALEFULL TRADING INCORPORATED a Japanese owned private subsidiary corporation started its operation since 2015 as a trading company of machinery tools and parts from their partnered small and medium manufacturing company based in Japan, as the years goes by due to the demands of other services also arises. Salefull Trading Inc. now offers business services of VIRTUAL ASSISTANT to meet the needs of Japanese companies such as global expansion businesses assistance, providing opportunities for business promotion and international internship support.</p>
                     </div>
@@ -106,13 +107,13 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <div class="mt-3" >
+                    <div class="mt-3" data-aos="fade-right">
                         <img src="images/goal.png" alt="" class="img-fluid">
                     </div>
                 </div>
 
                 <div class="col-lg-6">
-                    <div class="mt-3">
+                    <div class="mt-3" data-aos="fade-left">
                         <h2><span class="fw-bold">OUR GOALS</span></h2>
                         <p class="text-muted mt-4">The next coming years is a big challenge for Salefull Trading Incorporated to keep up with the fast changing needs and demands of the market. The company is preparing itself for the existing need for quality products from Japan in the Philippines and abroad.</p>
                     </div>
@@ -124,15 +125,15 @@
         <div class="container mt-5">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <div class="mt-3">
+                    <div class="mt-3" data-aos="fade-right">
                         <h2><span class="fw-bold">OUR MISSION</span></h2>
                         <p class="text-muted mt-4">To keep transmitting the potential of people to the world, to bridge opportunity and to build partnership between Japanese and Filipino Companies towards global expansion and to provide customized virtual business management and support services to established business owners. As integral team members, we provide the structure and support that allows them more time and focus to grow their business.</p>
                     </div>
                 </div>
 
                 <div class="col-lg-6">
-                    <div class="mt-3">
-                        <img src="images/goal.png" alt="" class="img-fluid">
+                    <div class="mt-3" data-aos="fade-left">
+                        <img src="images/mission.png" alt="" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -141,12 +142,12 @@
         <div class="container mt-5">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <div class="mt-3">
-                        <img src="images/goal.png" alt="" class="img-fluid">
+                    <div class="mt-3" data-aos="fade-right">
+                        <img src="images/vission.png" alt="" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="mt-3">
+                    <div class="mt-3" data-aos="fade-left">
                         <h2><span class="fw-bold">OUR VISION</span></h2>
                         <p class="text-muted mt-4">Our goal is to become a 21st century company weighing the coexistence of the people and the environment to help our customers and the community to realize their dreams by anticipating, understanding and meeting their needs.</p>
            
@@ -238,7 +239,7 @@
                     <div class="col-lg-6">
                         <div class="text-center">
                             <h2><span class="fw-bold">Contact</span> Us</h2>
-                            <p class="text-muted mx-auto section-subtitle mt-3">It is a long established fact that a reader will be of a page when established fact looking at its layout.</p>
+                            <p class="text-muted mx-auto section-subtitle mt-3">We're here to help and answer any questions you might have. We look forward to hearing from you.</p>
                         </div>
                     </div>
                 </div> 
@@ -381,6 +382,9 @@
         });
     </script>
 
-
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
 </body>
 </html>

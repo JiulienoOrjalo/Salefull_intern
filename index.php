@@ -21,7 +21,7 @@
     <link rel="stylesheet" type="text/css" href="css/color/default.css" id="option-color">
     <link rel="stylesheet" type="text/css" href="css/style2.css">
     <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
 <body>
@@ -45,8 +45,8 @@
 	        </button>
 	        <div class="collapse navbar-collapse" id="navbarNav">
 	            <ul class="navbar-nav ms-auto" id="main_nav">
-	                <li class="nav-item">
-	                    <a class="nav-link" href="#">HOME</a>
+	                <li class="nav-item ">
+	                    <a class="nav-link" href="index.php"><b>HOME</b></a>
 	                </li>
 
 	                <li class="nav-item">
@@ -54,16 +54,17 @@
 	                </li>
                     
 	                <li class="nav-item">
-	                    <a class="nav-link" href="#">SERVICES</a>
+	                    <a class="nav-link" href="services.php">SERVICES</a>
 	                </li>
 	                <li class="nav-item">
-	                    <a class="nav-link" href="#">UPDATES</a>
+	                    <a class="nav-link" href="update.php">UPDATES</a>
 	                </li>
 	                <li class="nav-item">
-	                    <a class="nav-link" href="#">CONTACT US</a>
+	                    <a class="nav-link" href="contact.php">CONTACT US</a>
 	                </li>
 	            </ul>
 	        </div>
+            
 	    </div>
 	</nav>
 	<!-- End Navbar -->
@@ -99,7 +100,7 @@
                         <p class="text-muted mt-3">Since 2015, SALEFULL TRADING INCORPORATED, a Japanese owned private subsidiary corporation whose primary business services is giving assistance and support to its allied SME’s Japanese companies based in Japan. Who would like to make a global business, providing business and promotions opportunities, market research, and identifying related customers that match their business products and services and facilitates business contacts. </p>
 
                         <div class="mt-5">
-                        <iframe width="648" height="366" src="https://www.youtube.com/embed/hpaNIK7u5jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe  src="https://www.youtube.com/embed/hpaNIK7u5jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen  style="border: 0; width: 100%; height: 60vh" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
 
@@ -238,7 +239,28 @@
 
 
 
-    <!-- START SERVICES 
+
+
+    <!-- START CTA -->
+    <section class="section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12" data-aos="fade-up">
+                    <div class="text-center">
+                        <h2 class="fw-bold">In SALEFULL, It's our top priority to match your needs.</h2>
+                        <br>
+                        <p class=""> Do you have any questions? </p>
+                    </div>
+                    <div class="text-center mt-4">
+                        <a href="contact.php" class="btn btn-danger">Contact Us</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- END CTA -->
+
+    <!-- START SERVICES  
     <section class="section bg-light" id="services">
         <div class="container">
             <div class="row justify-content-center">
@@ -328,80 +350,6 @@
         </div>
     </section>
     <!-- END SERVICES -->
-
-    <!-- START CTA -->
-    <section class="section">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12" data-aos="fade-up">
-                    <div class="text-center">
-                        <h2 class="fw-bold">In SALEFULL, It's our top priority to match your needs.</h2>
-                        <br>
-                        <p class=""> Do you have any questions? </p>
-                    </div>
-                    <div class="text-center mt-4">
-                        <a href="#" class="btn btn-danger">Contact Us</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- END CTA -->
-
-    <!-- START CLIENT -->
-    <section class="section bg-light" id="client">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-12">
-                    <div class="text-center">
-                        <h2>Our <span class="fw-bold">Team</span></h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-4 pt-4">
-                <div class="col-lg-12">
-                    <div id="owl-demo" class="owl-carousel">
-                        <div class="text-center testi_boxes mx-auto">
-                            <div class="mt-2">
-                                <div class="img_testi">
-                                    <img src="images/testi/testi-1.jpg" alt="" class="mx-auto img-thumbnail img-fluid rounded-circle">
-                                    
-                                </div>
-                                <p class="client_review fst-italic mt-4 text-center text-muted">" The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here."</p>
-                                <p class="client_name text-center mb-0 mt-4">- Ebony verty, <span class="fw-bold">Envato</span></p>
-                            </div>
-                        </div>
-                        <div class="text-center testi_boxes mx-auto">
-                            <div class="tam_testi_icon text-custom">
-                                <i class="mbri-quote-left"></i>
-                            </div>
-                            <div class="mt-2">
-                                <div class="img_testi">
-                                    <img src="images/testi/testi-2.jpg" alt="" class="mx-auto img-thumbnail img-fluid d-block rounded-circle">
-                                </div>
-                                <p class="client_review fst-italic mt-4 text-center text-muted">" The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here."</p>
-                                <p class="client_name text-center mb-0 mt-4">- Ebony verty, <span class="fw-bold">Envato</span></p>
-                            </div>
-                        </div>
-                        <div class="text-center testi_boxes mx-auto">
-                            <div class="tam_testi_icon text-custom">
-                                <i class="mbri-quote-left"></i>
-                            </div>
-                            <div class="mt-2">
-                                <div class="img_testi">
-                                    <img src="images/testi/testi-3.jpg" alt="" class="mx-auto img-thumbnail img-fluid d-block rounded-circle">
-                                </div>
-                                <p class="client_review fst-italic mt-4 text-center text-muted">" The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here."</p>
-                                <p class="client_name text-center mb-0 mt-4">- Ebony verty, <span class="fw-bold">Envato</span></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- END CLIENT -->
-
 
 
     <!-- START BLOG -->
@@ -557,7 +505,14 @@
 
 
 
-
+    <section>
+        <div class="container-fluid">
+            <div class="col-lg-12">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15428.194917329844!2d120.275489!3d14.822522999999999!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb608f8aabcaf3629!2sSalefull%20Trading%20Incorporated!5e0!3m2!1sen!2sus!4v1648794124093!5m2!1sen!2sus" 
+                style="border: 0; width: 100%; height: 60vh" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
+    </section>
 
 
 
