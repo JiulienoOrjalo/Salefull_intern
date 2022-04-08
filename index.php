@@ -120,7 +120,7 @@
                         <h2><span class="fw-bold">VIRTUAL SUPPORT AND ASSISTANT SERVICES</span></h2>
                         <p class="text-muted mt-4">Our virtual staff offers help in setting up meetings and company visits that will help in introducing one’s company.<br><br>We offer internet research, international virtual internship, Social media management, Web design and Development.</p>
                         <br>
-                        <button type="button" class="btn btn-danger btn-sm" id="btnhome">Learn more</button>
+                        <a href="services/virtual_support.php"><button type="button" class="btn btn-danger btn-sm" id="btnhome">Learn more</button></a>
                     </div>
                 </div>
 

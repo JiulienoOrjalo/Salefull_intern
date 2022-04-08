@@ -305,19 +305,14 @@ button:focus {
         4.HOME
 =============================*/
 
-.home_index {
+.header-bg-img {
     background-image: url(../images/bg.jpg);
     position: relative;
     background-size: cover;
     background-position: center center;
 }
 
-#home_services{
-    background-image: url(../images/bg2.jpg);
-    position: relative;
-    background-size: cover;
-    background-position: center center;
-}
+
 
 
 

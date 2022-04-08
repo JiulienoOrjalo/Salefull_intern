@@ -222,8 +222,6 @@
     <!--END FOOTER-->
     
 
-    <!-- Back To Top -->    
-    <a href="#" class="back_top"> <i class="mdi mdi-chevron-up"> </i> </a>
 
   
 
