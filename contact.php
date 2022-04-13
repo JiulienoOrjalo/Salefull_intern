@@ -1,3 +1,4 @@
+<?php include 'sendemail.php'; ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -150,34 +151,34 @@
 
                                     <div class="col-lg-6">
                                             <div class="form-kerri contact_form">
-                                                <form>
+                                                <form action="" method="post">
                                                     <div class="row">
                                                         <div class="col-lg-6">
                                                             <div class="form-group mt-2">
-                                                                <input type="text" class="form-control" placeholder="Your name..." aria-label="First name">
+                                                                <input type="text" class="form-control" placeholder="Your name..." aria-label="First name" name="name" required>
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="form-group mt-2">
-                                                                <input type="email" class="form-control" id="inputEmail4" placeholder="Your email...">
+                                                                <input type="email" class="form-control" id="inputEmail4" placeholder="Your email..." name="email" required>
                                                             </div>
                                                         </div>                                
                                                     </div>
                                                     <div class="row">
                                                         <div class="form-group mt-2">
-                                                            <input type="text" class="form-control" placeholder="Your Subject.." aria-label="Subject">
+                                                            <input type="text" class="form-control" placeholder="Your Subject.." aria-label="Subject" name="subject" required>
                                                         </div>
                                                     </div>
                                                     <div class="row">
                                                         <div class="col-lg-12">
                                                             <div class="form-group mt-2">
-                                                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="4" placeholder="Your Massage..."></textarea>
+                                                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="4" placeholder="Your Message..." name="message" required></textarea>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="row">
                                                         <div class="col-lg-12 text-end mt-2">
-                                                            <input type="submit" id="submit" name="send" class="btn btn-custom text-uppercase" value="Send Massage">
+                                                            <input type="submit" id="submit" name="submit" class="btn btn-custom text-uppercase" value="Send Massage">
                                                         </div>
                                                     </div>
                                                 </form>

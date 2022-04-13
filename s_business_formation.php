@@ -78,7 +78,7 @@
                     <div class="text-center header-content mx-auto">
                         <!-- <h4 class="text-white first-title mb-4">Welcome</h4> -->
                         <h1 class="header-name text-white text-capitalize mb-0">
-                            About Us
+                        OTHER SERVICES
                         </h1>
                   
                     </div>
@@ -95,8 +95,8 @@
             <div class="row justify-content-center">
                 <div class="col-lg-12">
                     <div class="text-center" data-aos="fade-up">
-                        <h2><span class="fw-bold">WHO WE ARE</span></h2>
-                        <p class="mt-5">SALEFULL TRADING INCORPORATED a Japanese owned private subsidiary corporation started its operation since 2015 as a trading company of machinery tools and parts from their partnered small and medium manufacturing company based in Japan, as the years goes by due to the demands of other services also arises. Salefull Trading Inc. now offers business services of VIRTUAL ASSISTANT to meet the needs of Japanese companies such as global expansion businesses assistance, providing opportunities for business promotion and international internship support.</p>
+                        <h2><span class="fw-bold"><span class="text-danger">Salefull has the capability</span> to deliver a broad range of solutions and services to meet your other operational needs</span></h2>
+
                     </div>
                 </div>
             </div>
@@ -111,14 +111,14 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-right">
-                        <img src="images/goal.png" alt="" class="img-fluid">
+                        <img src="images/home-2.1.png" alt="" class="img-fluid">
                     </div>
                 </div>
 
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-left">
-                        <h2><span class="fw-bold">OUR GOALS</span></h2>
-                        <p class="text-muted mt-4">The next coming years is a big challenge for Salefull Trading Incorporated to keep up with the fast changing needs and demands of the market. The company is preparing itself for the existing need for quality products from Japan in the Philippines and abroad.</p>
+
+                        <p class="text-muted mt-4">Apart from the Virtual Assistant, Salefull Trading Inc. is open for clients to utilize other services offered that will contribute to the betterment of an enterprise. These other solutions range from Business Formation and Accounting Services to Overseas Company Experience Training.</p>
                     </div>
                 </div>
 
@@ -129,110 +129,50 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-right">
-                        <h2><span class="fw-bold">OUR MISSION</span></h2>
-                        <p class="text-muted mt-4">To keep transmitting the potential of people to the world, to bridge opportunity and to build partnership between Japanese and Filipino Companies towards global expansion and to provide customized virtual business management and support services to established business owners. As integral team members, we provide the structure and support that allows them more time and focus to grow their business.</p>
+                        <p class="text-muted mt-4">
+                        Salefull’s BUSINESS FORMATION & ACCOUNTING SERVICES will lend a hand in making sure that all legal documents and applications are processed to ensure smooth transactions in both the administrative and accounting aspects of your company. Salefull also has the future of your business in mind with the PRODUCT RESEARCH & DEVELOPMENT SERVICE. The company will give factual input and suggestions that may contribute to new improvements in your business and products.
+                        </p>
                     </div>
                 </div>
 
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-left">
-                        <img src="images/mission.png" alt="" class="img-fluid">
+                        <img src="images/home-2.2.png" alt="" class="img-fluid">
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="container mt-5">
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <div class="mt-3" data-aos="fade-right">
-                        <img src="images/vission.png" alt="" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="mt-3" data-aos="fade-left">
-                        <h2><span class="fw-bold">OUR VISION</span></h2>
-                        <p class="text-muted mt-4">Our goal is to become a 21st century company weighing the coexistence of the people and the environment to help our customers and the community to realize their dreams by anticipating, understanding and meeting their needs.</p>
-           
-
-                    </div>
-                </div>
-            </div>
-        </div>
 
 
     </section>
     <!-- END ABOUT -->
 
-
-    <!-- START BLOG -->
-    <section class="section bg-light" id="blog">
-        <div class="container">   
-            <div class="row justify-content-center">
-                <div class="col-lg-12">
+    <section class="section bg-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12" data-aos="fade-up">
                     <div class="text-center">
-                        <h2><span class="fw-bold">UPDATES</span></h2>
-                        <p class="text-muted mx-auto section-subtitle mt-3">It is a long established fact that a reader will be of a page when established fact looking at its layout.</p>
+                        <h2 class="fw-bold">In SALEFULL, It's our top priority to match your needs.</h2>
+                        <br>
+                        <p class=""> Do you have any questions? </p>
                     </div>
-                </div>
-            </div>                 
-            <div class="row mt-5">
-                <div class="col-lg-4 mt-3">
-                    <div class="rounded bg-white p-2">
-                        <div class="img_blog">
-                            <img src="images/blog/blog-1.jpg" alt="" class="img-fluid rounded mx-auto d-block">
-                        </div>
-                        <div class="content_blog p-3">
-                            <div>
-                                <h5 class="fw-bold mb-0"><a href="#" class="text-dark">There are many variations</a></h5>
-                            </div>
-                            <div class="mt-3">
-                                <p class="h6 text-muted date_blog mb-0">11 March 2018 <a href="#" class="text-custom fw-bold">By Kerri</a></p>
-                                <p class="mt-3 desc_blog text-muted">Sit sagittis vulputate laoreet sodales tortor nulla lobortis bibendum netus primis fames. Lobortis ultricies.</p>
-                                <p class="h6 mb-0"><a href="#" class="text-muted fw-bold">Read More...</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 mt-3">
-                    <div class="rounded bg-white p-2">
-                        <div class="img_blog">
-                            <img src="images/blog/blog-2.jpg" alt="" class="img-fluid rounded mx-auto d-block">
-                        </div>
-                        <div class="content_blog p-3">
-                            <div>
-                                <h5 class="fw-bold mb-0"><a href="#" class="text-dark">Contrary to popular belief</a></h5>
-                            </div>
-                            <div class="mt-3">
-                                <p class="h6 text-muted date_blog mb-0">18 March 2018 <a href="#" class="text-custom fw-bold">By Kerri</a></p>
-                                <p class="mt-3 desc_blog text-muted">Sit sagittis vulputate laoreet sodales tortor nulla lobortis bibendum netus primis fames. Lobortis ultricies.</p>
-                                <p class="h6 mb-0"><a href="#" class="text-muted fw-bold">Read More...</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 mt-3">
-                    <div class="rounded bg-white p-2">
-                        <div class="img_blog">
-                            <img src="images/blog/blog-3.jpg" alt="" class="img-fluid rounded mx-auto d-block">
-                        </div>
-                        <div class="content_blog p-3">
-                            <div>
-                                <h5 class="fw-bold mb-0"><a href="#" class="text-dark">Lorem Ipsum is not simply</a></h5>
-                            </div>
-                            <div class="mt-3">
-                                <p class="h6 text-muted date_blog mb-0">22 March 2018 <a href="#" class="text-custom fw-bold">By Kerri</a></p>
-                                <p class="mt-3 desc_blog text-muted">Sit sagittis vulputate laoreet sodales tortor nulla lobortis bibendum netus primis fames. Lobortis ultricies.</p>
-                                <p class="h6 mb-0"><a href="#" class="text-muted fw-bold">Read More...</a></p>
-                            </div>
-                        </div>
+                    <div class="text-center mt-4">
+                        <a href="contact.php" class="btn btn-danger">Contact Us</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- END BLOG -->
 
+    <section>
+        <div class="container-fluid">
+            <div class="col-lg-12">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15428.194917329844!2d120.275489!3d14.822522999999999!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb608f8aabcaf3629!2sSalefull%20Trading%20Incorporated!5e0!3m2!1sen!2sus!4v1648794124093!5m2!1sen!2sus" 
+                style="border: 0; width: 100%; height: 60vh" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
+    </section>
     <!-- START CONTACT -->
     <section class="section" id="contact">
         <div class="container">

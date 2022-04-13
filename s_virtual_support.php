@@ -78,7 +78,7 @@
                     <div class="text-center header-content mx-auto">
                         <!-- <h4 class="text-white first-title mb-4">Welcome</h4> -->
                         <h1 class="header-name text-white text-capitalize mb-0">
-                            About Us
+                        VIRTUAL ASSISTANT SERVICES
                         </h1>
                   
                     </div>
@@ -95,8 +95,8 @@
             <div class="row justify-content-center">
                 <div class="col-lg-12">
                     <div class="text-center" data-aos="fade-up">
-                        <h2><span class="fw-bold">WHO WE ARE</span></h2>
-                        <p class="mt-5">SALEFULL TRADING INCORPORATED a Japanese owned private subsidiary corporation started its operation since 2015 as a trading company of machinery tools and parts from their partnered small and medium manufacturing company based in Japan, as the years goes by due to the demands of other services also arises. Salefull Trading Inc. now offers business services of VIRTUAL ASSISTANT to meet the needs of Japanese companies such as global expansion businesses assistance, providing opportunities for business promotion and international internship support.</p>
+                        <h2><span class="fw-bold">Salefull's <span class="text-danger">Virtual Assistant Services</span> is a Philippines-base va company with a variety of clients across asia.</span></h2>
+                        <p class="mt-5">A Virtual Assistant (VA) is still a relatively new term in today’s business world, but its expertise is rapidly being shaped. More and more companies are realizing the benefits of using VAs and appreciate the advantages of being able to delegate tasks out to an individual who is already trained and experienced, flexible, and will only charge for the work done and time taken.</p>
                     </div>
                 </div>
             </div>
@@ -117,8 +117,8 @@
 
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-left">
-                        <h2><span class="fw-bold">OUR GOALS</span></h2>
-                        <p class="text-muted mt-4">The next coming years is a big challenge for Salefull Trading Incorporated to keep up with the fast changing needs and demands of the market. The company is preparing itself for the existing need for quality products from Japan in the Philippines and abroad.</p>
+
+                        <p class="text-muted mt-4">Finding the right service for your business can be a breeze with the many different skills in virtual assistant services. Most importantly, VAs are credited with granting greater levels of productivity to businesses, because they are typically best used for delegating the more tedious tasks, checking emails, organizing schedules and events, looking for candidates for an international internship, making internet research and setting up company meetings.</p>
                     </div>
                 </div>
 
@@ -129,8 +129,24 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-right">
-                        <h2><span class="fw-bold">OUR MISSION</span></h2>
-                        <p class="text-muted mt-4">To keep transmitting the potential of people to the world, to bridge opportunity and to build partnership between Japanese and Filipino Companies towards global expansion and to provide customized virtual business management and support services to established business owners. As integral team members, we provide the structure and support that allows them more time and focus to grow their business.</p>
+                        <h2><span class="fw-bold">WHAT ELSE? THESE ARE JUST A FEW</span></h2>
+                        <p class="text-muted mt-4">
+                       <ul>
+                           <li>
+                             Internet Research
+                           </li>
+                           <li>
+                            International Virtual Internship
+                           </li>
+                           <li>
+                             Social Media Management
+                           </li>
+                           <li>
+                            Web Design and Development
+                           </li>
+                           
+                       </ul>
+                        </p>
                     </div>
                 </div>
 
@@ -142,97 +158,36 @@
             </div>
         </div>
 
-        <div class="container mt-5">
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <div class="mt-3" data-aos="fade-right">
-                        <img src="images/vission.png" alt="" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="mt-3" data-aos="fade-left">
-                        <h2><span class="fw-bold">OUR VISION</span></h2>
-                        <p class="text-muted mt-4">Our goal is to become a 21st century company weighing the coexistence of the people and the environment to help our customers and the community to realize their dreams by anticipating, understanding and meeting their needs.</p>
-           
-
-                    </div>
-                </div>
-            </div>
-        </div>
 
 
     </section>
     <!-- END ABOUT -->
 
-
-    <!-- START BLOG -->
-    <section class="section bg-light" id="blog">
-        <div class="container">   
-            <div class="row justify-content-center">
-                <div class="col-lg-12">
+    <section class="section bg-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12" data-aos="fade-up">
                     <div class="text-center">
-                        <h2><span class="fw-bold">UPDATES</span></h2>
-                        <p class="text-muted mx-auto section-subtitle mt-3">It is a long established fact that a reader will be of a page when established fact looking at its layout.</p>
+                        <h2 class="fw-bold">In SALEFULL, It's our top priority to match your needs.</h2>
+                        <br>
+                        <p class=""> Do you have any questions? </p>
                     </div>
-                </div>
-            </div>                 
-            <div class="row mt-5">
-                <div class="col-lg-4 mt-3">
-                    <div class="rounded bg-white p-2">
-                        <div class="img_blog">
-                            <img src="images/blog/blog-1.jpg" alt="" class="img-fluid rounded mx-auto d-block">
-                        </div>
-                        <div class="content_blog p-3">
-                            <div>
-                                <h5 class="fw-bold mb-0"><a href="#" class="text-dark">There are many variations</a></h5>
-                            </div>
-                            <div class="mt-3">
-                                <p class="h6 text-muted date_blog mb-0">11 March 2018 <a href="#" class="text-custom fw-bold">By Kerri</a></p>
-                                <p class="mt-3 desc_blog text-muted">Sit sagittis vulputate laoreet sodales tortor nulla lobortis bibendum netus primis fames. Lobortis ultricies.</p>
-                                <p class="h6 mb-0"><a href="#" class="text-muted fw-bold">Read More...</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 mt-3">
-                    <div class="rounded bg-white p-2">
-                        <div class="img_blog">
-                            <img src="images/blog/blog-2.jpg" alt="" class="img-fluid rounded mx-auto d-block">
-                        </div>
-                        <div class="content_blog p-3">
-                            <div>
-                                <h5 class="fw-bold mb-0"><a href="#" class="text-dark">Contrary to popular belief</a></h5>
-                            </div>
-                            <div class="mt-3">
-                                <p class="h6 text-muted date_blog mb-0">18 March 2018 <a href="#" class="text-custom fw-bold">By Kerri</a></p>
-                                <p class="mt-3 desc_blog text-muted">Sit sagittis vulputate laoreet sodales tortor nulla lobortis bibendum netus primis fames. Lobortis ultricies.</p>
-                                <p class="h6 mb-0"><a href="#" class="text-muted fw-bold">Read More...</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 mt-3">
-                    <div class="rounded bg-white p-2">
-                        <div class="img_blog">
-                            <img src="images/blog/blog-3.jpg" alt="" class="img-fluid rounded mx-auto d-block">
-                        </div>
-                        <div class="content_blog p-3">
-                            <div>
-                                <h5 class="fw-bold mb-0"><a href="#" class="text-dark">Lorem Ipsum is not simply</a></h5>
-                            </div>
-                            <div class="mt-3">
-                                <p class="h6 text-muted date_blog mb-0">22 March 2018 <a href="#" class="text-custom fw-bold">By Kerri</a></p>
-                                <p class="mt-3 desc_blog text-muted">Sit sagittis vulputate laoreet sodales tortor nulla lobortis bibendum netus primis fames. Lobortis ultricies.</p>
-                                <p class="h6 mb-0"><a href="#" class="text-muted fw-bold">Read More...</a></p>
-                            </div>
-                        </div>
+                    <div class="text-center mt-4">
+                        <a href="contact.php" class="btn btn-danger">Contact Us</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- END BLOG -->
 
+    <section>
+        <div class="container-fluid">
+            <div class="col-lg-12">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15428.194917329844!2d120.275489!3d14.822522999999999!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb608f8aabcaf3629!2sSalefull%20Trading%20Incorporated!5e0!3m2!1sen!2sus!4v1648794124093!5m2!1sen!2sus" 
+                style="border: 0; width: 100%; height: 60vh" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
+    </section>
     <!-- START CONTACT -->
     <section class="section" id="contact">
         <div class="container">

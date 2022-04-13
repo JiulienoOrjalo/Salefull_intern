@@ -1,3 +1,4 @@
+<?php include 'sendemail.php'; ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -120,13 +121,13 @@
                         <h2><span class="fw-bold">VIRTUAL SUPPORT AND ASSISTANT SERVICES</span></h2>
                         <p class="text-muted mt-4">Our virtual staff offers help in setting up meetings and company visits that will help in introducing one’s company.<br><br>We offer internet research, international virtual internship, Social media management, Web design and Development.</p>
                         <br>
-                        <a href="services/virtual_support.php"><button type="button" class="btn btn-danger btn-sm" id="btnhome">Learn more</button></a>
+                        <a href="s_virtual_support.php"><button type="button" class="btn btn-danger btn-sm" id="btnhome">Learn more</button></a>
                     </div>
                 </div>
 
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-left">
-                        <img src="images/goal.png" alt="" class="img-fluid">
+                        <img src="images/home-1.png" alt="" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -136,7 +137,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-right">
-                        <img src="images/goal.png" alt="" class="img-fluid">
+                        <img src="images/home-2.png" alt="" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -145,7 +146,7 @@
                         <p class="text-muted mt-4">Our virtual staff offers help in setting up meetings and company visits that will help in introducing one’s company.<br><br>We offer internet research, international virtual internship, Social media management, Web design and Development.</p>
                         
                         <br>
-                        <button type="button" class="btn btn-danger btn-sm" id="btnhome">Learn more</button>
+                        <a href="s_business_formation.php"><button type="button" class="btn btn-danger btn-sm" id="btnhome">Learn more</button></a>
 
                     </div>
                 </div>
@@ -260,97 +261,211 @@
     </section>
     <!-- END CTA -->
 
-    <!-- START SERVICES  
+
+<br>
+
+    <!-- START SERVICES  -->
     <section class="section bg-light" id="services">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-12">
                     <div class="text-center">
-                        <h2>Our <span class="fw-bold">Services</span></h2>
-                        <p class="text-muted mx-auto section-subtitle mt-3">It is a long established fact that a reader will be of a page when established fact looking at its layout.</p>
+                        <h2>Our <span class="fw-bold">Team</span></h2>
                     </div>
                 </div>
             </div>
             <div class="row mt-5">
-                <div class="col-lg-4">
+                <div class="col-lg-3">
                     <div class="text-center services-boxes rounded p-4 mt-4">
                         <div class="services-boxes-icon">
-                            <i class="mbri-growing-chart text-custom display-4"></i>
+                            <img src="images/team/1.png" class="img-fluid" style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
                             <h5 class="mb-0">Graphic Design</h5>
                             <div class="services-title-border"></div>
-                            <p class="text-muted mt-3">There are many variations of passages of but the majority have suffered alteration in some form.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+
+                <div class="col-lg-3">
                     <div class="text-center services-boxes rounded p-4 mt-4">
                         <div class="services-boxes-icon">
-                            <i class="mbri-hot-cup text-custom display-4"></i>
+                            <img src="images/team/2.png" class="img-fluid" style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Unlimited Color</h5>
+                            <h5 class="mb-0">Graphic Design</h5>
                             <div class="services-title-border"></div>
-                            <p class="text-muted mt-3">There are many variations of passages of but the majority have suffered alteration in some form.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+
+                <div class="col-lg-3">
                     <div class="text-center services-boxes rounded p-4 mt-4">
                         <div class="services-boxes-icon">
-                            <i class="mbri-upload text-custom display-4"></i>
+                            <img src="images/team/3.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Media Marketing</h5>
+                            <h5 class="mb-0">Graphic Design</h5>
                             <div class="services-title-border"></div>
-                            <p class="text-muted mt-3">There are many variations of passages of but the majority have suffered alteration in some form.</p>
                         </div>
                     </div>
                 </div>
+
+                <div class="col-lg-3">
+                    <div class="text-center services-boxes rounded p-4 mt-4">
+                        <div class="services-boxes-icon">
+                            <img src="images/team/4.png" class="img-fluid"  style="filter: grayscale(100%);">
+                        </div>
+                        <div class="mt-4">
+                            <h5 class="mb-0">Graphic Design</h5>
+                            <div class="services-title-border"></div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
+
+
+            
             <div class="row">
-                <div class="col-lg-4">
+            <div class="col-lg-3">
                     <div class="text-center services-boxes rounded p-4 mt-4">
                         <div class="services-boxes-icon">
-                            <i class="mbri-layers text-custom display-4"></i>
+                            <img src="images/team/5.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Unlimited Wifi</h5>
+                            <h5 class="mb-0">Graphic Design</h5>
                             <div class="services-title-border"></div>
-                            <p class="text-muted mt-3">There are many variations of passages of but the majority have suffered alteration in some form.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+
+                <div class="col-lg-3">
                     <div class="text-center services-boxes rounded p-4 mt-4">
                         <div class="services-boxes-icon">
-                            <i class="mbri-website-theme text-custom display-4"></i>
+                            <img src="images/team/6.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Responsive Design</h5>
+                            <h5 class="mb-0">Graphic Design</h5>
                             <div class="services-title-border"></div>
-                            <p class="text-muted mt-3">There are many variations of passages of but the majority have suffered alteration in some form.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+
+                <div class="col-lg-3">
                     <div class="text-center services-boxes rounded p-4 mt-4">
                         <div class="services-boxes-icon">
-                            <i class="mbri-edit text-custom display-4"></i>
+                            <img src="images/team/7.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Easy to customize</h5>
+                            <h5 class="mb-0">Graphic Design</h5>
                             <div class="services-title-border"></div>
-                            <p class="text-muted mt-3">There are many variations of passages of but the majority have suffered alteration in some form.</p>
                         </div>
                     </div>
                 </div>
+
+                <div class="col-lg-3">
+                    <div class="text-center services-boxes rounded p-4 mt-4">
+                        <div class="services-boxes-icon">
+                            <img src="images/team/8.png" class="img-fluid"  style="filter: grayscale(100%);">
+                        </div>
+                        <div class="mt-4">
+                            <h5 class="mb-0">Graphic Design</h5>
+                            <div class="services-title-border"></div>
+                        </div>
+                    </div>
+                </div> 
+
+            </div>
+
+            <div class="row">
+            <div class="col-lg-3">
+                    <div class="text-center services-boxes rounded p-4 mt-4">
+                        <div class="services-boxes-icon">
+                            <img src="images/team/9.png" class="img-fluid"  style="filter: grayscale(100%);">
+                        </div>
+                        <div class="mt-4">
+                            <h5 class="mb-0">Graphic Design</h5>
+                            <div class="services-title-border"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3">
+                    <div class="text-center services-boxes rounded p-4 mt-4">
+                        <div class="services-boxes-icon">
+                            <img src="images/team/10.png" class="img-fluid"  style="filter: grayscale(100%);">
+                        </div>
+                        <div class="mt-4">
+                            <h5 class="mb-0">Graphic Design</h5>
+                            <div class="services-title-border"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3">
+                    <div class="text-center services-boxes rounded p-4 mt-4">
+                        <div class="services-boxes-icon">
+                            <img src="images/team/11.png" class="img-fluid"  style="filter: grayscale(100%);">
+                        </div>
+                        <div class="mt-4">
+                            <h5 class="mb-0">Graphic Design</h5>
+                            <div class="services-title-border"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3">
+                    <div class="text-center services-boxes rounded p-4 mt-4">
+                        <div class="services-boxes-icon">
+                            <img src="images/team/12.png" class="img-fluid"  style="filter: grayscale(100%);">
+                        </div>
+                        <div class="mt-4">
+                            <h5 class="mb-0">Graphic Design</h5>
+                            <div class="services-title-border"></div>
+                        </div>
+                    </div>
+                </div> 
+            </div>
+
+            <div class="row">
+                <div class="col-lg-3">
+                    
+                </div>
+
+                <div class="col-lg-3">
+                    <div class="text-center services-boxes rounded p-4 mt-4">
+                        <div class="services-boxes-icon">
+                            <img src="images/team/13.png" class="img-fluid"  style="filter: grayscale(100%);">
+                        </div>
+                        <div class="mt-4">
+                            <h5 class="mb-0">Graphic Design</h5>
+                            <div class="services-title-border"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3">
+                    <div class="text-center services-boxes rounded p-4 mt-4">
+                        <div class="services-boxes-icon">
+                            <img src="images/team/14.png" class="img-fluid"  style="filter: grayscale(100%);">
+                        </div>
+                        <div class="mt-4">
+                            <h5 class="mb-0">Graphic Design</h5>
+                            <div class="services-title-border"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3">
+
+                </div> 
+                            
+
             </div>
         </div>
     </section>
     <!-- END SERVICES -->
-
 
     <!-- START BLOG -->
     <section class="section bg-light" id="blog">
@@ -479,14 +594,22 @@
                                                             </div>
                                                         </div>
 
-                                                        <div class="col-lg-4">
-                                                            <div class="form-group mt-">
+                                                       <div class="col-lg-4">
+                                                            <div class="form-group ">
                                                                 <img src="images/school8.jpg">
                                                             </div>
-                                                        </div>
+                                                    </div>
+
+                                                    <div class="col-lg-4">
+                                                            <div class="form-group ">
+                                                                <img src="images/school9.jpg">
+                                                            </div>
+                                                    </div>
                   
 
                                                     </div>
+                                                    
+                                                    
                                             </div>
                                     </div>
                                     
@@ -573,34 +696,34 @@
 
                                     <div class="col-lg-6">
                                             <div class="form-kerri contact_form">
-                                                <form>
+                                                <form action="" method="post">
                                                     <div class="row">
                                                         <div class="col-lg-6">
                                                             <div class="form-group mt-2">
-                                                                <input type="text" class="form-control" placeholder="Your name..." aria-label="First name">
+                                                                <input type="text" class="form-control" placeholder="Your name..." aria-label="First name" name="name" required>
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="form-group mt-2">
-                                                                <input type="email" class="form-control" id="inputEmail4" placeholder="Your email...">
+                                                                <input type="email" class="form-control" id="inputEmail4" placeholder="Your email..." name="email" required>
                                                             </div>
                                                         </div>                                
                                                     </div>
                                                     <div class="row">
                                                         <div class="form-group mt-2">
-                                                            <input type="text" class="form-control" placeholder="Your Subject.." aria-label="Subject">
+                                                            <input type="text" class="form-control" placeholder="Your Subject.." aria-label="Subject" name="subject" required>
                                                         </div>
                                                     </div>
                                                     <div class="row">
                                                         <div class="col-lg-12">
                                                             <div class="form-group mt-2">
-                                                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="4" placeholder="Your Massage..."></textarea>
+                                                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="4" placeholder="Your Message..." name="message" required></textarea>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="row">
                                                         <div class="col-lg-12 text-end mt-2">
-                                                            <input type="submit" id="submit" name="send" class="btn btn-custom text-uppercase" value="Send Massage">
+                                                            <input type="submit" id="submit" name="submit" class="btn btn-custom text-uppercase" value="Send Massage">
                                                         </div>
                                                     </div>
                                                 </form>
@@ -678,5 +801,11 @@
 <script>
   AOS.init();
 </script>
+
+<script type="text/javascript">
+    if(window.history.replaceState){
+      window.history.replaceState(null, null, window.location.href);
+    }
+    </script>
 </body>
 </html>
