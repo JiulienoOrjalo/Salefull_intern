@@ -111,7 +111,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-right">
-                        <img src="images/goal.png" alt="" class="img-fluid">
+                        <img src="images/va-1.png" alt="" class="img-fluid">
                     </div>
                 </div>
 
@@ -152,7 +152,7 @@
 
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-left">
-                        <img src="images/mission.png" alt="" class="img-fluid">
+                        <img src="images/va-2.png" alt="" class="img-fluid">
                     </div>
                 </div>
             </div>

@@ -25,6 +25,15 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
+
+<style>
+    #offer:hover{
+        box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+        transition: 0.5s;
+    
+    }
+
+</style>
 <body>
 
     <!-- Loader -->
@@ -158,82 +167,66 @@
     <!-- END ABOUT -->
 
          <!-- START WORK -->   
-    <section class="section text-center" id="portfolio">
+         <section class="section bg-light" id="services">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-12">
                     <div class="text-center">
-                        <h2><span class="fw-bold">What our VA's Offer</span></h2>
-                        <!-- <p class="text-muted mx-auto section-subtitle mt-3">It is a long established fact that a reader will be of a page when established fact looking at its layout.</p> -->
+                        <h2>What our <span class="fw-bold">VA'S offer</span></h2>
                     </div>
                 </div>
             </div>
-            <!-- <div class="row mt-5 ">
-                <ul class="col list-unstyled list-inline mb-0 text-uppercase work_menu" id="menu-filter">
-                    <li class="list-inline-item"><a class="active" data-filter="*">All</a></li>
-                    <li class="list-inline-item"><a class="" data-filter=".seo">Seo</a></li>
-                    <li class="list-inline-item"><a class="" data-filter=".webdesign">Webdesign</a></li>
-                    <li class="list-inline-item"><a class="" data-filter=".WORK">WORK</a></li>
-                    <li class="list-inline-item"><a class="" data-filter=".wordpress">Wordpress</a></li>
-                </ul>
-            </div> -->
-        </div>
-        <div class="container">
-            <div class="row mt-4 work-filter">
-                <div class="col-lg-3 work_item webdesign wordpress">
-                    <a href="images/works/1.jpg" class="img-zoom">
-                        <div class="work_box" data-aos="flip-up">
-                            <div class="work_img">
-                                <img src="images/works/intern.jpg" class="img-fluid mx-auto d-block rounded" alt="work-img">
-                            </div>
-                            <div class="work_detail">
-                                <h4 class="mb-0">Internet Research</h4>
-                            </div>
+            <div class="row mt-5">
+                <div class="col-lg-3">
+                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
+                        <div class="services-boxes-icon">
+                            <img src="images/team/internet.png" class="img-fluid" style="filter: grayscale(100%);">
                         </div>
-                    </a>
+                        <div class="mt-4">
+                            <h5 class="mb-0">Internet Research</h5>
+                        </div>
+                    </div>
                 </div>
 
-                <div class="col-lg-3 work_item WORK webdesign seo">
-                    <a href="images/works/2.jpg" class="img-zoom">
-                        <div class="work_box" data-aos="flip-up">
-                            <div class="work_img">
-                                <img src="images/works/virtual.jpg" class="img-fluid mx-auto d-block rounded" alt="work-img">
-                            </div>
-                            <div class="work_detail">
-                                <h4 class="mb-0">Virtual Internship</h4>
-                            </div>
+                <div class="col-lg-3" >
+                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
+                        <div class="services-boxes-icon">
+                            <img src="images/team/2.png" class="img-fluid" style="filter: grayscale(100%);">
                         </div>
-                    </a>
+                        <div class="mt-4">
+                            <h5 class="mb-0">Virtual Internship</h5>
+
+                        </div>
+                    </div>
                 </div>
 
-                <div class="col-lg-3 work_item seo wordpress">
-                    <a href="images/works/3.jpg" class="img-zoom">
-                        <div class="work_box" data-aos="flip-up">
-                            <div class="work_img">
-                                <img src="images/works/social.jpg" class="img-fluid mx-auto d-block rounded" alt="work-img">
-                            </div>
-                            <div class="work_detail">
-                                <h4 class="mb-0">Social Media Management</h4>
-                            </div>
+                <div class="col-lg-3" >
+                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
+                        <div class="services-boxes-icon">
+                            <img src="images/team/3.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
-                    </a>
+                        <div class="mt-4">
+                            <h5 class="mb-0">Social Media Management</h5>
+
+                        </div>
+                    </div>
                 </div>
 
-                <div class="col-lg-3 work_item wordpress WORK webdesign">
-                    <a href="images/works/4.jpg" class="img-zoom">
-                        <div class="work_box" data-aos="flip-up">
-                            <div class="work_img">
-                                <img src="images/works/web.jpg" class="img-fluid mx-auto d-block rounded" alt="work-img">
-                            </div>
-                            <div class="work_detail">
-                                <h4 class="mb-0">Web Development</h4>
-                            </div>
+                <div class="col-lg-3" >
+                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
+                        <div class="services-boxes-icon">
+                            <img src="images/team/4.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
-                    </a>
-                </div>
+                        <div class="mt-4">
+                            <h5 class="mb-0">Web Development</h5>
 
+                        </div>
+                    </div>
+                </div>
 
             </div>
+
+
         </div>
     </section>
     <!-- END WORK -->                       
@@ -281,7 +274,7 @@
                             <img src="images/team/1.png" class="img-fluid" style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Graphic Design</h5>
+                            <h5 class="mb-0">Alyssa Marie</h5>
                             <div class="services-title-border"></div>
                         </div>
                     </div>
@@ -293,7 +286,7 @@
                             <img src="images/team/2.png" class="img-fluid" style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Graphic Design</h5>
+                            <h5 class="mb-0">Benjie</h5>
                             <div class="services-title-border"></div>
                         </div>
                     </div>
@@ -305,7 +298,7 @@
                             <img src="images/team/3.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Graphic Design</h5>
+                            <h5 class="mb-0">Maria Cassandra</h5>
                             <div class="services-title-border"></div>
                         </div>
                     </div>
@@ -317,7 +310,7 @@
                             <img src="images/team/4.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Graphic Design</h5>
+                            <h5 class="mb-0">Christian</h5>
                             <div class="services-title-border"></div>
                         </div>
                     </div>
@@ -334,7 +327,7 @@
                             <img src="images/team/5.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Graphic Design</h5>
+                            <h5 class="mb-0">Henna Mae</h5>
                             <div class="services-title-border"></div>
                         </div>
                     </div>
@@ -346,7 +339,7 @@
                             <img src="images/team/6.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Graphic Design</h5>
+                            <h5 class="mb-0">Marilyn</h5>
                             <div class="services-title-border"></div>
                         </div>
                     </div>
@@ -358,7 +351,7 @@
                             <img src="images/team/7.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Graphic Design</h5>
+                            <h5 class="mb-0">Jolan</h5>
                             <div class="services-title-border"></div>
                         </div>
                     </div>
@@ -370,7 +363,7 @@
                             <img src="images/team/8.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Graphic Design</h5>
+                            <h5 class="mb-0">John Edward</h5>
                             <div class="services-title-border"></div>
                         </div>
                     </div>
@@ -385,7 +378,7 @@
                             <img src="images/team/9.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Graphic Design</h5>
+                            <h5 class="mb-0">Mary Loisse</h5>
                             <div class="services-title-border"></div>
                         </div>
                     </div>
@@ -397,7 +390,7 @@
                             <img src="images/team/10.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Graphic Design</h5>
+                            <h5 class="mb-0">Rosel</h5>
                             <div class="services-title-border"></div>
                         </div>
                     </div>
@@ -409,7 +402,7 @@
                             <img src="images/team/11.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Graphic Design</h5>
+                            <h5 class="mb-0">Aldrin</h5>
                             <div class="services-title-border"></div>
                         </div>
                     </div>
@@ -421,7 +414,7 @@
                             <img src="images/team/12.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Graphic Design</h5>
+                            <h5 class="mb-0">Syria</h5>
                             <div class="services-title-border"></div>
                         </div>
                     </div>
@@ -439,7 +432,7 @@
                             <img src="images/team/13.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Graphic Design</h5>
+                            <h5 class="mb-0">Marc Genelee</h5>
                             <div class="services-title-border"></div>
                         </div>
                     </div>
@@ -451,7 +444,7 @@
                             <img src="images/team/14.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Graphic Design</h5>
+                            <h5 class="mb-0">Ranie Francis</h5>
                             <div class="services-title-border"></div>
                         </div>
                     </div>
