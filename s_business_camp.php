@@ -78,7 +78,7 @@
                     <div class="text-center header-content mx-auto">
                         <!-- <h4 class="text-white first-title mb-4">Welcome</h4> -->
                         <h1 class="header-name text-white text-capitalize mb-0">
-                        Salefull Trading Incorporated<br> Services
+                        BUSINESS CAMPS
                         </h1>
                   
                     </div>
@@ -95,7 +95,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-12">
                     <div class="text-center" data-aos="fade-up">
-                        <h2><span class="fw-bold"><span class="text-danger">Salefull has the capability to deliver a broad range of solutions and services to meet your other operational needs</span></span></h2>
+                        <h2><span class="fw-bold"><span class="text-danger">Build Professional Relationships</span></span></h2>
 
                     </div>
                 </div>
@@ -109,37 +109,21 @@
     <section class="section" id="about">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <div class="mt-3" data-aos="fade-right">
-                        <img src="images/home-2.1.png" alt="" class="img-fluid">
-                    </div>
-                </div>
-
-                <div class="col-lg-6">
+            <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-left">
 
-                        <p class="text-muted mt-4">Apart from the Virtual Assistant, Salefull Trading Inc. is open for clients to utilize other services offered that will contribute to the betterment of an enterprise. These other solutions range from Business Formation and Accounting Services to Overseas Company Experience Training.</p>
+                        <p class="text-muted mt-4">A Business Camp is an event organized by Salefull that aims to introduce the Philippines to our Japanese SMEs clients who are visiting the country for the first time. It is also an event which involves sharpening skills & concepts, giving ideas and gaining more knowledge that may enhance the performance of professional individuals and their respective companies..</p>
                     </div>
                 </div>
 
-            </div>
-        </div>
-
-        <div class="container mt-5">
-            <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-right">
-                        <!-- <h2><span class="fw-bold">WHAT ELSE? THESE ARE JUST A FEW</span></h2> -->
-                        <p class="text-muted mt-4">Salefull’s BUSINESS FORMATION & ACCOUNTING SERVICES will lend a hand in making sure that all legal documents and applications are processed to ensure smooth transactions in both the administrative and accounting aspects of your company. Salefull also has the future of your business in mind with the PRODUCT RESEARCH & DEVELOPMENT SERVICE. The company will give factual input and suggestions that may contribute to new improvements in your business and products.
-                        </p>
+                        <img src="images/bc_1.jpeg" alt="" class="img-fluid">
                     </div>
                 </div>
 
-                <div class="col-lg-6">
-                    <div class="mt-3" data-aos="fade-left">
-                        <img src="images/home-2.2.png" alt="" class="img-fluid">
-                    </div>
-                </div>
+
+
             </div>
         </div>
 
@@ -149,146 +133,6 @@
     </section>
     <!-- END ABOUT -->
 
-
-
-
-  <!-- START Services -->   
-  <section class="section bg-light" id="services">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-12">
-                    <div class="text-center">
-                        <h2>Our <span class="fw-bold">Services</span></h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-5">
-                <div class="col-lg-3">
-                    <a href="s_internet_research.php" >
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/internet.png" class="img-fluid" style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Internet Research</h6>
-                        </div>
-                    </div>
-                    </a>
-                </div>
-
-                <div class="col-lg-3" >
-                    <a href="s_international_virtual.php">
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/2.png" class="img-fluid" style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Virtual Internship</h6>
-
-                        </div>
-                    </div>
-                    </a> 
-                </div>
-
-                <div class="col-lg-3" >
-                    <a href="s_social_media.php">
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/3.png" class="img-fluid"  style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Social Media Management</h6>
-
-                        </div>
-                    </div>
-                     </a>
-                </div>
-
-                <div class="col-lg-3" >
-                    <a href="s_web_development.php">
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/4.png" class="img-fluid"  style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Web Development</h6>
-
-                        </div>
-                    </div>
-                    </a>
-                </div>
-
-            </div>
-
-            <div class="row mt-5">
-                <div class="col-lg-3">
-                    <a href="s_business_formation.php" >
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/internet.png" class="img-fluid" style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Business Formation</h6>
-                        </div>
-                    </div>
-                    </a>
-                </div>
-
-                <div class="col-lg-3" >
-                    <a href="s_product development.php">
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/2.png" class="img-fluid" style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Product & Research Development</h6>
-
-                        </div>
-                    </div>
-                    </a> 
-                </div>
-
-                <div class="col-lg-3" >
-                    <a href="s_business_camp.php">
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/3.png" class="img-fluid"  style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Business Camps</h6>
-
-                        </div>
-                    </div>
-                     </a>
-                </div>
-
-                <div class="col-lg-3" >
-                    <a href="s_overseas.php">
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/4.png" class="img-fluid"  style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Overseas Company exprience Training</h6>
-
-                        </div>
-                    </div>
-                    </a>
-                </div>
-
-            </div>
-
-        </div>
-    </section>
-    <!-- END Services -->                       
-                 
-
-
-
-
-
-
-   <!-- START CONTACT -->
     <section class="section bg-light">
         <div class="container">
             <div class="row">
@@ -314,9 +158,6 @@
             </div>
         </div>
     </section>
-
-
-    
     <!-- START CONTACT -->
     <section class="section" id="contact">
         <div class="container">

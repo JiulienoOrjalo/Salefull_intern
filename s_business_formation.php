@@ -47,11 +47,11 @@
 	                    <a class="nav-link" href="index.php">HOME</a>
 	                </li>
 	                <li class="nav-item">
-	                    <a class="nav-link" href="About us.php"><b>ABOUT US</b></a>
+	                    <a class="nav-link" href="About us.php">ABOUT US</a>
 	                </li>
 
 	                <li class="nav-item">
-	                    <a class="nav-link" href="services.php">SERVICES</a>
+	                    <a class="nav-link" href="services.php"><b>SERVICES</b></a>
 	                </li>
                     
 	                <li class="nav-item">
@@ -78,7 +78,7 @@
                     <div class="text-center header-content mx-auto">
                         <!-- <h4 class="text-white first-title mb-4">Welcome</h4> -->
                         <h1 class="header-name text-white text-capitalize mb-0">
-                        OTHER SERVICES
+                        BUSINESS FORMATION
                         </h1>
                   
                     </div>
@@ -95,7 +95,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-12">
                     <div class="text-center" data-aos="fade-up">
-                        <h2><span class="fw-bold"><span class="text-danger">Salefull has the capability</span> to deliver a broad range of solutions and services to meet your other operational needs</span></h2>
+                        <h2><span class="fw-bold"><span class="text-danger">Business Formation: Simplify what matters</span></span></h2>
 
                     </div>
                 </div>
@@ -111,14 +111,21 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-right">
-                        <img src="images/home-2.1.png" alt="" class="img-fluid">
+                        <img src="images/business_1.jpeg" alt="" class="img-fluid">
                     </div>
                 </div>
 
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-left">
 
-                        <p class="text-muted mt-4">Apart from the Virtual Assistant, Salefull Trading Inc. is open for clients to utilize other services offered that will contribute to the betterment of an enterprise. These other solutions range from Business Formation and Accounting Services to Overseas Company Experience Training.</p>
+                        <p class="text-muted mt-4">Doing business in the Philippines must undergo business registration that consists of a hierarchical process of obtaining certificates and licenses from various government agencies. This is an important step that even small businesses should not miss. This is also the process of legally registering your company. You can register your business as a single business owner, partnership or legal entity.
+
+Providing our expertise in handling your applications for registrations with various government agencies as follows:<br><br>
+1. To process company name registration with Securities and Exchange Commission.<br>
+2. To process new business permits and other local licenses with the City Treasurer’s Office (CTO).<br>
+3. To register with the Bureau of Internal Revenue and ascertain all other compliances concerning taxation.<br><br>
+
+We can help you assisting to process business registration documents so you can focus more on building your business!</p>
                     </div>
                 </div>
 
@@ -129,15 +136,22 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-right">
+                    <h2><span class="fw-bold">ACCOUNTING SERVICES WITH THE FOLLOWING SCOPE OF WORKS:</span></h2>
                         <p class="text-muted mt-4">
-                        Salefull’s BUSINESS FORMATION & ACCOUNTING SERVICES will lend a hand in making sure that all legal documents and applications are processed to ensure smooth transactions in both the administrative and accounting aspects of your company. Salefull also has the future of your business in mind with the PRODUCT RESEARCH & DEVELOPMENT SERVICE. The company will give factual input and suggestions that may contribute to new improvements in your business and products.
+                        1. Bookkeeping/Accounting<br>
+                        2. Tax Compliance<br>
+                        3. VAT Relief (Summary of Sales/Receipts and Purchases)<br>
+                        4. Quarterly Preparation of Financial Statements<br>
+                        5. Quarterly Income Tax<br>
+                        6. Monthly Bank Reconciliation<br>
+                        7. Year-End Closing Period<br>
                         </p>
                     </div>
                 </div>
 
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-left">
-                        <img src="images/home-2.2.png" alt="" class="img-fluid">
+                        <img src="images/business_2.png" alt="" class="img-fluid">
                     </div>
                 </div>
             </div>
