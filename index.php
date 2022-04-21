@@ -30,6 +30,7 @@
     #offer:hover{
         box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
         transition: 0.5s;
+        color: red;
     
     }
 
@@ -166,7 +167,7 @@
     </section>
     <!-- END ABOUT -->
 
-         <!-- START WORK -->   
+     <!-- START Services -->   
          <section class="section bg-light" id="services">
         <div class="container">
             <div class="row justify-content-center">
@@ -178,50 +179,58 @@
             </div>
             <div class="row mt-5">
                 <div class="col-lg-3">
+                    <a href="s_internet_research.php" >
                     <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
                         <div class="services-boxes-icon">
                             <img src="images/team/internet.png" class="img-fluid" style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Internet Research</h5>
+                            <h6 class="mb-0 text-muted">Internet Research</h6>
                         </div>
                     </div>
+                    </a>
                 </div>
 
                 <div class="col-lg-3" >
+                    <a href="s_international_virtual.php">
                     <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
                         <div class="services-boxes-icon">
                             <img src="images/team/2.png" class="img-fluid" style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Virtual Internship</h5>
+                            <h6 class="mb-0 text-muted">Virtual Internship</h6>
 
                         </div>
                     </div>
+                    </a> 
                 </div>
 
                 <div class="col-lg-3" >
+                    <a href="s_social_media.php">
                     <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
                         <div class="services-boxes-icon">
                             <img src="images/team/3.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Social Media Management</h5>
+                            <h6 class="mb-0 text-muted">Social Media Management</h6>
 
                         </div>
                     </div>
+                     </a>
                 </div>
 
                 <div class="col-lg-3" >
+                    <a href="s_web_development.php">
                     <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
                         <div class="services-boxes-icon">
                             <img src="images/team/4.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
-                            <h5 class="mb-0">Web Development</h5>
+                            <h6 class="mb-0 text-muted">Web Development</h6>
 
                         </div>
                     </div>
+                    </a>
                 </div>
 
             </div>
@@ -229,7 +238,7 @@
 
         </div>
     </section>
-    <!-- END WORK -->                       
+    <!-- END Services -->                       
 
 
 

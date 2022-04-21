@@ -78,7 +78,7 @@
                     <div class="text-center header-content mx-auto">
                         <!-- <h4 class="text-white first-title mb-4">Welcome</h4> -->
                         <h1 class="header-name text-white text-capitalize mb-0">
-                        Salefull Trading Incorporated<br> Services
+                        WEB DEVELOPMENT
                         </h1>
                   
                     </div>
@@ -95,8 +95,10 @@
             <div class="row justify-content-center">
                 <div class="col-lg-12">
                     <div class="text-center" data-aos="fade-up">
-                        <h2><span class="fw-bold"><span class="text-danger">Salefull has the capability to deliver a broad range of solutions and services to meet your other operational needs</span></span></h2>
+                        <!-- <h2><span class="fw-bold"> <span class="text-danger">Increase your reach and amplify your marketing</span></span></h2> -->
+                        <p class="mt-5">One of the most important things for a brand is good web design. Good web design can be the one thing that pushes you above or pulls you below your competition. Design matters, because it can reflect how you and your brand do business, and ultimately how your clients and potential customers see and feel about you. This is particularly important when it comes to websites.</p>
 
+                        
                     </div>
                 </div>
             </div>
@@ -111,37 +113,24 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-right">
-                        <img src="images/home-2.1.png" alt="" class="img-fluid">
+                        <img src="images/web.jpg" alt="" class="img-fluid">
                     </div>
                 </div>
 
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-left">
 
-                        <p class="text-muted mt-4">Apart from the Virtual Assistant, Salefull Trading Inc. is open for clients to utilize other services offered that will contribute to the betterment of an enterprise. These other solutions range from Business Formation and Accounting Services to Overseas Company Experience Training.</p>
-                    </div>
-                </div>
+                        <p class="text-muted mt-4">Websites are essentially the new storefronts and first contact points for an increasing number of businesses and brands. We offer a variety of website design and development services, from creating mobile web development solutions and responsive website designs, to building custom e-commerce and intranet experiences using the latest and proven web technologies.
 
-            </div>
-        </div>
-
-        <div class="container mt-5">
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <div class="mt-3" data-aos="fade-right">
-                        <!-- <h2><span class="fw-bold">WHAT ELSE? THESE ARE JUST A FEW</span></h2> -->
-                        <p class="text-muted mt-4">Salefull’s BUSINESS FORMATION & ACCOUNTING SERVICES will lend a hand in making sure that all legal documents and applications are processed to ensure smooth transactions in both the administrative and accounting aspects of your company. Salefull also has the future of your business in mind with the PRODUCT RESEARCH & DEVELOPMENT SERVICE. The company will give factual input and suggestions that may contribute to new improvements in your business and products.
+                        <br><br>
+                        <a href="contact.php"><button type="button" class="btn btn-danger btn-sm" id="btnhome">Ask for pricing</button></a>
                         </p>
                     </div>
                 </div>
 
-                <div class="col-lg-6">
-                    <div class="mt-3" data-aos="fade-left">
-                        <img src="images/home-2.2.png" alt="" class="img-fluid">
-                    </div>
-                </div>
             </div>
         </div>
+
 
 
 
@@ -149,146 +138,6 @@
     </section>
     <!-- END ABOUT -->
 
-
-
-
-  <!-- START Services -->   
-  <section class="section bg-light" id="services">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-12">
-                    <div class="text-center">
-                        <h2>Our <span class="fw-bold">Services</span></h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-5">
-                <div class="col-lg-3">
-                    <a href="s_internet_research.php" >
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/internet.png" class="img-fluid" style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Internet Research</h6>
-                        </div>
-                    </div>
-                    </a>
-                </div>
-
-                <div class="col-lg-3" >
-                    <a href="s_international_virtual.php">
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/2.png" class="img-fluid" style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Virtual Internship</h6>
-
-                        </div>
-                    </div>
-                    </a> 
-                </div>
-
-                <div class="col-lg-3" >
-                    <a href="s_social_media.php">
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/3.png" class="img-fluid"  style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Social Media Management</h6>
-
-                        </div>
-                    </div>
-                     </a>
-                </div>
-
-                <div class="col-lg-3" >
-                    <a href="s_web_development.php">
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/4.png" class="img-fluid"  style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Web Development</h6>
-
-                        </div>
-                    </div>
-                    </a>
-                </div>
-
-            </div>
-
-            <div class="row mt-5">
-                <div class="col-lg-3">
-                    <a href="s_internet_research.php" >
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/internet.png" class="img-fluid" style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Business Formation</h6>
-                        </div>
-                    </div>
-                    </a>
-                </div>
-
-                <div class="col-lg-3" >
-                    <a href="s_international_virtual.php">
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/2.png" class="img-fluid" style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">VProduct Research</h6>
-
-                        </div>
-                    </div>
-                    </a> 
-                </div>
-
-                <div class="col-lg-3" >
-                    <a href="s_social_media.php">
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/3.png" class="img-fluid"  style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Business Camps</h6>
-
-                        </div>
-                    </div>
-                     </a>
-                </div>
-
-                <div class="col-lg-3" >
-                    <a href="s_web_development.php">
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/4.png" class="img-fluid"  style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Overseas Company exprience Training</h6>
-
-                        </div>
-                    </div>
-                    </a>
-                </div>
-
-            </div>
-
-        </div>
-    </section>
-    <!-- END Services -->                       
-                 
-
-
-
-
-
-
-   <!-- START CONTACT -->
     <section class="section bg-light">
         <div class="container">
             <div class="row">
@@ -314,9 +163,6 @@
             </div>
         </div>
     </section>
-
-
-    
     <!-- START CONTACT -->
     <section class="section" id="contact">
         <div class="container">

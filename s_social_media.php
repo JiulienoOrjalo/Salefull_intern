@@ -78,7 +78,7 @@
                     <div class="text-center header-content mx-auto">
                         <!-- <h4 class="text-white first-title mb-4">Welcome</h4> -->
                         <h1 class="header-name text-white text-capitalize mb-0">
-                        Salefull Trading Incorporated<br> Services
+                        SOCIAL MEDIA MANAGEMENT
                         </h1>
                   
                     </div>
@@ -95,8 +95,27 @@
             <div class="row justify-content-center">
                 <div class="col-lg-12">
                     <div class="text-center" data-aos="fade-up">
-                        <h2><span class="fw-bold"><span class="text-danger">Salefull has the capability to deliver a broad range of solutions and services to meet your other operational needs</span></span></h2>
+                        <h2><span class="fw-bold"> <span class="text-danger">Increase your reach and amplify your marketing</span></span></h2>
+                        <p class="mt-5">At this day and age, social media has proven to be a powerful asset when it comes to growing brand identity and awareness. Besides promoting your business, social media can help you meet several company goals:
 
+                        <ul class="text-start">
+                           <li>
+                             Internet Research
+                           </li>
+                           <li>
+                            International Virtual Internship
+                           </li>
+                           <li>
+                             Social Media Management
+                           </li>
+                           <li>
+                            Web Design and Development
+                           </li>
+                       </ul>
+
+                        </p>
+
+                        
                     </div>
                 </div>
             </div>
@@ -111,14 +130,17 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-right">
-                        <img src="images/home-2.1.png" alt="" class="img-fluid">
+                        <img src="images/social-media.png" alt="" class="img-fluid">
                     </div>
                 </div>
 
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-left">
 
-                        <p class="text-muted mt-4">Apart from the Virtual Assistant, Salefull Trading Inc. is open for clients to utilize other services offered that will contribute to the betterment of an enterprise. These other solutions range from Business Formation and Accounting Services to Overseas Company Experience Training.</p>
+                        <p class="text-muted mt-4">As times have changed due to the COVID-19 pandemic, more and more industries have adapted by going virtual. Academic and post-academic sectors have also adapted as shown in virtual on-the-job trainings or virtual internship programs.
+One of Salefull Trading Inc.’s services and a solution for needed human resource support is VIRTUAL INTERNATIONAL INTERNSHIP ASSISTANCE. Salefull has a number of partnered institutions whose students will best fit your requirements. Filipinos are no stranger to international internships and they can easily adapt to the virtual setting.
+
+.</p>
                     </div>
                 </div>
 
@@ -130,165 +152,28 @@
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-right">
                         <!-- <h2><span class="fw-bold">WHAT ELSE? THESE ARE JUST A FEW</span></h2> -->
-                        <p class="text-muted mt-4">Salefull’s BUSINESS FORMATION & ACCOUNTING SERVICES will lend a hand in making sure that all legal documents and applications are processed to ensure smooth transactions in both the administrative and accounting aspects of your company. Salefull also has the future of your business in mind with the PRODUCT RESEARCH & DEVELOPMENT SERVICE. The company will give factual input and suggestions that may contribute to new improvements in your business and products.
+                        <p class="text-muted mt-4">Salefull Trading Inc. will give assistance by arranging schedules and handling all, from initial introduction, interview processing, and memorandum of agreement and so on. Your company will benefit from a virtual international internship program by having fresh new ideas from the interns, and in return the company will provide students the necessary supervision to ensure success.
+
+By providing adequate virtual training or orientation before the program begins, you’ll see even better results. The more resources your company is willing to put toward the virtual internship program, the better it will be. The better the virtual internship program, the more competitive it will be.
+
+Why hire people who’ve never worked at your company before? Why not hire young people as interns, teach them your business and how your company runs, and hire them when they graduate college? The virtual internship can be like a test period. It’s a great opportunity for you to test out this new virtual working relationship and vice versa.
                         </p>
                     </div>
                 </div>
 
                 <div class="col-lg-6">
                     <div class="mt-3" data-aos="fade-left">
-                        <img src="images/home-2.2.png" alt="" class="img-fluid">
+                        <img src="images/social-media2.jpg" alt="" class="img-fluid">
                     </div>
                 </div>
             </div>
         </div>
-
 
 
 
     </section>
     <!-- END ABOUT -->
 
-
-
-
-  <!-- START Services -->   
-  <section class="section bg-light" id="services">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-12">
-                    <div class="text-center">
-                        <h2>Our <span class="fw-bold">Services</span></h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-5">
-                <div class="col-lg-3">
-                    <a href="s_internet_research.php" >
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/internet.png" class="img-fluid" style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Internet Research</h6>
-                        </div>
-                    </div>
-                    </a>
-                </div>
-
-                <div class="col-lg-3" >
-                    <a href="s_international_virtual.php">
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/2.png" class="img-fluid" style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Virtual Internship</h6>
-
-                        </div>
-                    </div>
-                    </a> 
-                </div>
-
-                <div class="col-lg-3" >
-                    <a href="s_social_media.php">
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/3.png" class="img-fluid"  style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Social Media Management</h6>
-
-                        </div>
-                    </div>
-                     </a>
-                </div>
-
-                <div class="col-lg-3" >
-                    <a href="s_web_development.php">
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/4.png" class="img-fluid"  style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Web Development</h6>
-
-                        </div>
-                    </div>
-                    </a>
-                </div>
-
-            </div>
-
-            <div class="row mt-5">
-                <div class="col-lg-3">
-                    <a href="s_internet_research.php" >
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/internet.png" class="img-fluid" style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Business Formation</h6>
-                        </div>
-                    </div>
-                    </a>
-                </div>
-
-                <div class="col-lg-3" >
-                    <a href="s_international_virtual.php">
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/2.png" class="img-fluid" style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">VProduct Research</h6>
-
-                        </div>
-                    </div>
-                    </a> 
-                </div>
-
-                <div class="col-lg-3" >
-                    <a href="s_social_media.php">
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/3.png" class="img-fluid"  style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Business Camps</h6>
-
-                        </div>
-                    </div>
-                     </a>
-                </div>
-
-                <div class="col-lg-3" >
-                    <a href="s_web_development.php">
-                    <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
-                        <div class="services-boxes-icon">
-                            <img src="images/team/4.png" class="img-fluid"  style="filter: grayscale(100%);">
-                        </div>
-                        <div class="mt-4">
-                            <h6 class="mb-0 text-muted">Overseas Company exprience Training</h6>
-
-                        </div>
-                    </div>
-                    </a>
-                </div>
-
-            </div>
-
-        </div>
-    </section>
-    <!-- END Services -->                       
-                 
-
-
-
-
-
-
-   <!-- START CONTACT -->
     <section class="section bg-light">
         <div class="container">
             <div class="row">
@@ -314,9 +199,6 @@
             </div>
         </div>
     </section>
-
-
-    
     <!-- START CONTACT -->
     <section class="section" id="contact">
         <div class="container">
