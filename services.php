@@ -22,6 +22,17 @@
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
    
 </head>
+
+<style>
+    #offer:hover{
+        box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+        transition: 0.5s;
+        color: red;
+    
+    }
+
+</style>
+
 <body>
 
     <!-- Loader -->
@@ -180,7 +191,7 @@
                     <a href="s_international_virtual.php">
                     <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
                         <div class="services-boxes-icon">
-                            <img src="images/team/2.png" class="img-fluid" style="filter: grayscale(100%);">
+                            <img src="images/team/virtual.png" class="img-fluid" style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
                             <h6 class="mb-0 text-muted">Virtual Internship</h6>
@@ -194,7 +205,7 @@
                     <a href="s_social_media.php">
                     <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
                         <div class="services-boxes-icon">
-                            <img src="images/team/3.png" class="img-fluid"  style="filter: grayscale(100%);">
+                            <img src="images/team/social.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
                             <h6 class="mb-0 text-muted">Social Media Management</h6>
@@ -208,7 +219,7 @@
                     <a href="s_web_development.php">
                     <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
                         <div class="services-boxes-icon">
-                            <img src="images/team/4.png" class="img-fluid"  style="filter: grayscale(100%);">
+                            <img src="images/team/web.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
                             <h6 class="mb-0 text-muted">Web Development</h6>
@@ -225,7 +236,7 @@
                     <a href="s_business_formation.php" >
                     <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
                         <div class="services-boxes-icon">
-                            <img src="images/team/internet.png" class="img-fluid" style="filter: grayscale(100%);">
+                            <img src="images/team/business.png" class="img-fluid" style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
                             <h6 class="mb-0 text-muted">Business Formation</h6>
@@ -238,7 +249,7 @@
                     <a href="s_product development.php">
                     <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
                         <div class="services-boxes-icon">
-                            <img src="images/team/2.png" class="img-fluid" style="filter: grayscale(100%);">
+                            <img src="images/team/product.png" class="img-fluid" style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
                             <h6 class="mb-0 text-muted">Product & Research Development</h6>
@@ -252,7 +263,7 @@
                     <a href="s_business_camp.php">
                     <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
                         <div class="services-boxes-icon">
-                            <img src="images/team/3.png" class="img-fluid"  style="filter: grayscale(100%);">
+                            <img src="images/team/camp.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
                             <h6 class="mb-0 text-muted">Business Camps</h6>
@@ -266,7 +277,7 @@
                     <a href="s_overseas.php">
                     <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
                         <div class="services-boxes-icon">
-                            <img src="images/team/4.png" class="img-fluid"  style="filter: grayscale(100%);">
+                            <img src="images/team/plain.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
                             <h6 class="mb-0 text-muted">Overseas Company exprience Training</h6>

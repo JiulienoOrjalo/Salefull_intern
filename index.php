@@ -195,7 +195,7 @@
                     <a href="s_international_virtual.php">
                     <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
                         <div class="services-boxes-icon">
-                            <img src="images/team/2.png" class="img-fluid" style="filter: grayscale(100%);">
+                            <img src="images/team/virtual.png" class="img-fluid" style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
                             <h6 class="mb-0 text-muted">Virtual Internship</h6>
@@ -209,7 +209,7 @@
                     <a href="s_social_media.php">
                     <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
                         <div class="services-boxes-icon">
-                            <img src="images/team/3.png" class="img-fluid"  style="filter: grayscale(100%);">
+                            <img src="images/team/social.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
                             <h6 class="mb-0 text-muted">Social Media Management</h6>
@@ -223,7 +223,7 @@
                     <a href="s_web_development.php">
                     <div class="text-center services-boxes rounded p-4 mt-4" id="offer">
                         <div class="services-boxes-icon">
-                            <img src="images/team/4.png" class="img-fluid"  style="filter: grayscale(100%);">
+                            <img src="images/team/web.png" class="img-fluid"  style="filter: grayscale(100%);">
                         </div>
                         <div class="mt-4">
                             <h6 class="mb-0 text-muted">Web Development</h6>
@@ -490,9 +490,9 @@
                                 <h5 class="fw-bold mb-0"><a href="#" class="text-dark">There are many variations</a></h5>
                             </div>
                             <div class="mt-3">
-                                <p class="h6 text-muted date_blog mb-0">11 March 2018 <a href="#" class="text-custom fw-bold">By Kerri</a></p>
+                                <p class="h6 text-muted date_blog mb-0">11 March 2018 <a href="#" class="text-custom fw-bold">By Marco</a></p>
                                 <p class="mt-3 desc_blog text-muted">Sit sagittis vulputate laoreet sodales tortor nulla lobortis bibendum netus primis fames. Lobortis ultricies.</p>
-                                <p class="h6 mb-0"><a href="#" class="text-muted fw-bold">Read More...</a></p>
+                                <!-- <p class="h6 mb-0"><a href="#" class="text-muted fw-bold">Read More...</a></p> -->
                             </div>
                         </div>
                     </div>
@@ -507,9 +507,9 @@
                                 <h5 class="fw-bold mb-0"><a href="#" class="text-dark">Contrary to popular belief</a></h5>
                             </div>
                             <div class="mt-3">
-                                <p class="h6 text-muted date_blog mb-0">18 March 2018 <a href="#" class="text-custom fw-bold">By Kerri</a></p>
+                                <p class="h6 text-muted date_blog mb-0">18 March 2018 <a href="#" class="text-custom fw-bold">By Marco</a></p>
                                 <p class="mt-3 desc_blog text-muted">Sit sagittis vulputate laoreet sodales tortor nulla lobortis bibendum netus primis fames. Lobortis ultricies.</p>
-                                <p class="h6 mb-0"><a href="#" class="text-muted fw-bold">Read More...</a></p>
+                                <!-- <p class="h6 mb-0"><a href="#" class="text-muted fw-bold">Read More...</a></p> -->
                             </div>
                         </div>
                     </div>
@@ -524,9 +524,9 @@
                                 <h5 class="fw-bold mb-0"><a href="#" class="text-dark">Lorem Ipsum is not simply</a></h5>
                             </div>
                             <div class="mt-3">
-                                <p class="h6 text-muted date_blog mb-0">22 March 2018 <a href="#" class="text-custom fw-bold">By Kerri</a></p>
+                                <p class="h6 text-muted date_blog mb-0">22 March 2018 <a href="#" class="text-custom fw-bold">By Marco</a></p>
                                 <p class="mt-3 desc_blog text-muted">Sit sagittis vulputate laoreet sodales tortor nulla lobortis bibendum netus primis fames. Lobortis ultricies.</p>
-                                <p class="h6 mb-0"><a href="#" class="text-muted fw-bold">Read More...</a></p>
+                                <!-- <p class="h6 mb-0"><a href="#" class="text-muted fw-bold">Read More...</a></p> -->
                             </div>
                         </div>
                     </div>
